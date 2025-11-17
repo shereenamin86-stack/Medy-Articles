@@ -54,12 +54,12 @@ async function run() {
       }
 
       const payload = {
-        title: { "en-GB": title },
-        slug: { "en-GB": slug },
-        body: { "en-GB": richText }
+        title: { "en-US": title },
+        slug: { "en-US": slug },
+        body: { "en-US": richText }
       };
 
-      console.log("Body field preview:", JSON.stringify(payload.body["en-GB"], null, 2));
+      console.log("Body field preview:", JSON.stringify(payload.body["en-US"], null, 2));
 
       console.log("=== Syncing article ===");
       console.log("Title:", title);
