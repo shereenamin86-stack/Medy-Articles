@@ -69,6 +69,7 @@ Several clinical trials comparing Wegovy and Mounjaro have been conducted. Resul
   </tbody>
 </table>
 
+
  <figcaption>
     Table 2: Comparison of average weight loss at 3, 6 and 12 months for Mounjaro and Wegovy, showing greater reductions with Mounjaro.<sup><a href="#ref7" id="note7">7</a></sup> 
   </figcaption>
@@ -206,6 +207,6 @@ Every patient’s experience is unique. These stories highlight the importance o
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMxMzYwOTQ2LDUyNjI5NTc0NiwxNTUzOD
-Q2NDA0XX0=
+eyJoaXN0b3J5IjpbLTE4ODEyNDAyODgsNjMxMzYwOTQ2LDUyNj
+I5NTc0NiwxNTUzODQ2NDA0XX0=
 -->
