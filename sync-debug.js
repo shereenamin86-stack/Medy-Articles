@@ -20,7 +20,6 @@ async function run() {
       const filePath = path.join(folder, file);
       const markdown = fs.readFileSync(filePath, "utf-8");
 
-      // Skip empty files
       if (!markdown.trim()) {
         console.log(`Skipping empty file: ${file}`);
         continue;
@@ -36,7 +35,6 @@ async function run() {
       console.log("Slug:", slug);
       console.log("RichText length:", richText.content.length);
 
-      // Check if entry exists
       const existing = await env.getEntries({
         content_type: "article",
         "fields.slug": slug
@@ -46,16 +44,16 @@ async function run() {
       if (existing.items.length > 0) {
         entry = existing.items[0];
         console.log(`Updating existing entry: ${title}`);
-        entry.fields.title = { "en-UK": title };
-        entry.fields.slug = { "en-UK": slug };
-        entry.fields.body = { "en-UK": richText };
+        entry.fields.title = { "en-GB": title };
+        entry.fields.slug = { "en-GB": slug };
+        entry.fields.body = { "en-GB": richText };
       } else {
         console.log(`Creating new entry: ${title}`);
         entry = await env.createEntry("article", {
           fields: {
-            title: { "en-UK": title },
-            slug: { "en-UK": slug },
-            body: { "en-UK": richText }
+            title: { "en-GB": title },
+            slug: { "en-GB": slug },
+            body: { "en-GB": richText }
           }
         });
       }
