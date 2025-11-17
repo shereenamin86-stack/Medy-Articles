@@ -3,7 +3,7 @@ name: Sync StackEdit to Contentful
 on:
   push:
     paths:
-      - "articles/**"
+      - "articles/*.md"
 
 jobs:
   sync:
@@ -21,12 +21,12 @@ jobs:
         run: |
           npm install contentful-management @contentful/rich-text-from-markdown slugify
 
-      - name: List markdown files
+      - name: List markdown files (debug)
         run: ls -la articles/
 
-- name: Run Sync Script (DEBUG)
-  env:
-    CONTENTFUL_SPACE_ID: ${{ secrets.CONTENTFUL_SPACE_ID }}
-    CONTENTFUL_ENVIRONMENT: ${{ secrets.CONTENTFUL_ENVIRONMENT }}
-    CONTENTFUL_TOKEN: ${{ secrets.CONTENTFUL_TOKEN }}
-  run: node sync-debug.js
+      - name: Run Sync Script (DEBUG)
+        env:
+          CONTENTFUL_SPACE_ID: ${{ secrets.CONTENTFUL_SPACE_ID }}
+          CONTENTFUL_ENVIRONMENT: ${{ secrets.CONTENTFUL_ENVIRONMENT }}
+          CONTENTFUL_TOKEN: ${{ secrets.CONTENTFUL_TOKEN }}
+        run: node sync-debug.js
