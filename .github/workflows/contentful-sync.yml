@@ -3,7 +3,7 @@ name: Sync StackEdit to Contentful
 on:
   push:
     paths:
-      - "articles/*.md"
+      - "articles/**"
 
 jobs:
   sync:
@@ -20,6 +20,9 @@ jobs:
       - name: Install Dependencies
         run: |
           npm install contentful-management @contentful/rich-text-from-markdown slugify
+
+      - name: List markdown files
+        run: ls -la articles/
 
       - name: Run Sync Script
         env:
