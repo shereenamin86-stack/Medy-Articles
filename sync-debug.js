@@ -6,6 +6,14 @@ const { richTextFromMarkdown } = require('@contentful/rich-text-from-markdown');
 
 async function run() {
   try {
+    // Catch unhandled errors so workflow logs full details
+    process.on('unhandledRejection', (reason, promise) => {
+      console.error('Unhandled Rejection at:', promise, 'reason:', reason);
+    });
+    process.on('uncaughtException', err => {
+      console.error('Uncaught Exception thrown:', err);
+    });
+
     // Connect to Contentful
     const client = createClient({ accessToken: process.env.CONTENTFUL_TOKEN });
     const space = await client.getSpace(process.env.CONTENTFUL_SPACE_ID);
@@ -20,53 +28,34 @@ async function run() {
       const filePath = path.join(folder, file);
       const markdown = fs.readFileSync(filePath, "utf-8");
 
+      // Skip completely empty files
       if (!markdown.trim()) {
         console.log(`Skipping empty file: ${file}`);
         continue;
       }
 
+      // Convert Markdown → Rich Text
       const richText = await richTextFromMarkdown(markdown);
+
+      // Skip if Rich Text is empty
+      if (!richText || !richText.content || richText.content.length === 0) {
+        console.log(`Skipping file with empty body: ${file}`);
+        continue;
+      }
 
       const title = file.replace(".md", "");
       const slug = slugify(title, { lower: true });
 
-      console.log(`Processing file: ${file}`);
-      console.log("Title:", title);
-      console.log("Slug:", slug);
-      console.log("RichText length:", richText.content.length);
+      // Prepare payload including all required fields
+      const payload = {
+        title: { "en-GB": title },
+        slug: { "en-GB": slug },
+        body: { "en-GB": richText },
+        // Add placeholders for any other required fields in your content type:
+        // summary: { "en-GB": "Summary placeholder" },
+        // publishDate: { "en-GB": new Date().toISOString() },
+        // author: { "en-GB": { sys: { type: "Link", linkType: "Entry", id: "authorEntryId" } } }
+      };
 
-      const existing = await env.getEntries({
-        content_type: "article",
-        "fields.slug": slug
-      });
-
-      let entry;
-      if (existing.items.length > 0) {
-        entry = existing.items[0];
-        console.log(`Updating existing entry: ${title}`);
-        entry.fields.title = { "en-GB": title };
-        entry.fields.slug = { "en-GB": slug };
-        entry.fields.body = { "en-GB": richText };
-      } else {
-        console.log(`Creating new entry: ${title}`);
-        entry = await env.createEntry("article", {
-          fields: {
-            title: { "en-GB": title },
-            slug: { "en-GB": slug },
-            body: { "en-GB": richText }
-          }
-        });
-      }
-
-      await entry.publish();
-      console.log(`Published: ${title}`);
-    }
-
-    console.log("=== Contentful sync completed ===");
-  } catch (err) {
-    console.error("Fatal error during sync:", err);
-    process.exit(1);
-  }
-}
-
-run();
+      // Debug log payload
+      console.log("Creating entry with payload:", {
