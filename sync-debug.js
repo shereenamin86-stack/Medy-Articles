@@ -33,9 +33,10 @@ async function run() {
       const title = path.basename(file, '.md');
       const slug = slugify(title, { lower: true });
 
+      // Convert Markdown to Rich Text
       let richText = await richTextFromMarkdown(markdown);
 
-      // Fallback if richText is empty
+      // Fallback if conversion produces empty content
       if (!richText || !richText.content || richText.content.length === 0) {
         richText = {
           nodeType: 'document',
@@ -58,33 +59,55 @@ async function run() {
         body: { "en-GB": richText }
       };
 
-      console.log("Syncing article:", title);
+      console.log("=== Syncing article ===");
+      console.log("Title:", title);
       console.log("Payload preview:", JSON.stringify(payload, null, 2));
 
-      // Check if entry already exists
-      const existing = await env.getEntries({
-        content_type: "article",
-        "fields.slug": slug
-      });
+      try {
+        // Check if entry already exists by slug
+        const existing = await env.getEntries({
+          content_type: "article",
+          "fields.slug": slug
+        });
 
-      let entry;
-      if (existing.items.length > 0) {
-        entry = existing.items[0];
-        entry.fields = payload;
-        await entry.update();
-        console.log(`Updated existing entry: ${title}`);
-      } else {
-        entry = await env.createEntry("article", { fields: payload });
-        console.log(`Created new entry: ${title}`);
+        let entry;
+        if (existing.items.length > 0) {
+          entry = existing.items[0];
+          entry.fields = payload;
+          await entry.update();
+          console.log(`Updated existing entry: ${title}`);
+        } else {
+          entry = await env.createEntry("article", { fields: payload });
+          console.log(`Created new entry: ${title}`);
+        }
+
+        await entry.publish();
+        console.log(`Published entry: ${title}`);
+      } catch (err) {
+        console.error("Error creating/updating entry for:", title);
+        console.error("Payload sent:", JSON.stringify(payload, null, 2));
+        if (err.response && err.response.data) {
+          console.error("Contentful validation errors:", JSON.stringify(err.response.data, null, 2));
+        } else {
+          console.error(err);
+        }
+        // Continue to next file instead of crashing
+        continue;
       }
-
-      await entry.publish();
-      console.log(`Published entry: ${title}`);
     }
+
+    console.log("=== All articles processed ===");
+
   } catch (err) {
-    console.error("Sync failed:", err);
+    console.error("Fatal error during sync:", err);
     process.exit(1);
   }
 }
+
+// Catch unhandled rejections
+process.on('unhandledRejection', (err) => {
+  console.error('Unhandled rejection:', err);
+  process.exit(1);
+});
 
 run();
