@@ -4,6 +4,7 @@ const path = require('path');
 const slugify = require('slugify');
 const { createClient } = require('contentful-management');
 const { richTextFromMarkdown } = require('@contentful/rich-text-from-markdown');
+const { documentToPlainTextString } = require('@contentful/rich-text-plain-text-renderer');
 
 // --- FULL ERROR LOGGING ---
 process.on('uncaughtException', (err) => {
@@ -38,26 +39,40 @@ async function run() {
         continue;
       }
 
-      const richText = await richTextFromMarkdown(markdown);
+      let richText = await richTextFromMarkdown(markdown);
 
+      // Wrap plain text in paragraph if Rich Text is empty
       if (!richText || !richText.content || richText.content.length === 0) {
-        console.log(`Skipping file with empty body after conversion: ${file}`);
-        continue;
+        richText = {
+          nodeType: 'document',
+          data: {},
+          content: [
+            {
+              nodeType: 'paragraph',
+              data: {},
+              content: [
+                { nodeType: 'text', value: markdown, marks: [], data: {} }
+              ]
+            }
+          ]
+        };
       }
 
       const title = file.replace(".md", "");
       const slug = slugify(title, { lower: true });
 
+      // Payload for Contentful
       const payload = {
         title: { "en-GB": title },
         slug: { "en-GB": slug },
         body: { "en-GB": richText }
       };
 
+      // Debug logs
       console.log("Creating/updating entry with payload:", {
         title,
         slug,
-        richTextLength: richText.content.length
+        richTextPreview: documentToPlainTextString(richText).substring(0, 100)
       });
 
       try {
