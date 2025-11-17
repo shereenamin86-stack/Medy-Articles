@@ -24,9 +24,9 @@ jobs:
       - name: List markdown files
         run: ls -la articles/
 
-      - name: Run Sync Script
-        env:
-          CONTENTFUL_SPACE_ID: ${{ secrets.CONTENTFUL_SPACE_ID }}
-          CONTENTFUL_ENVIRONMENT: ${{ secrets.CONTENTFUL_ENVIRONMENT }}
-          CONTENTFUL_TOKEN: ${{ secrets.CONTENTFUL_TOKEN }}
-        run: node sync.js
+- name: Run Sync Script (DEBUG)
+  env:
+    CONTENTFUL_SPACE_ID: ${{ secrets.CONTENTFUL_SPACE_ID }}
+    CONTENTFUL_ENVIRONMENT: ${{ secrets.CONTENTFUL_ENVIRONMENT }}
+    CONTENTFUL_TOKEN: ${{ secrets.CONTENTFUL_TOKEN }}
+  run: node sync-debug.js
