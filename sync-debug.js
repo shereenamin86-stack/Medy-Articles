@@ -1,47 +1,41 @@
 // sync-debug.js
 const fs = require('fs');
 const path = require('path');
-const slugify = require('slugify');
 const { createClient } = require('contentful-management');
 const { richTextFromMarkdown } = require('@contentful/rich-text-from-markdown');
-const { documentToPlainTextString } = require('@contentful/rich-text-plain-text-renderer');
+const slugify = require('slugify');
 
-// --- FULL ERROR LOGGING ---
-process.on('uncaughtException', (err) => {
-  console.error('Uncaught Exception:', err);
+const CONTENTFUL_SPACE_ID = process.env.CONTENTFUL_SPACE_ID;
+const CONTENTFUL_ENVIRONMENT = process.env.CONTENTFUL_ENVIRONMENT;
+const CONTENTFUL_TOKEN = process.env.CONTENTFUL_TOKEN;
+
+if (!CONTENTFUL_SPACE_ID || !CONTENTFUL_ENVIRONMENT || !CONTENTFUL_TOKEN) {
+  console.error("ERROR: Missing Contentful environment variables.");
   process.exit(1);
-});
-process.on('unhandledRejection', (reason, promise) => {
-  console.error('Unhandled Rejection at:', promise, 'reason:', reason);
-  process.exit(1);
+}
+
+const client = createClient({
+  accessToken: CONTENTFUL_TOKEN
 });
 
 async function run() {
   try {
-    // Connect to Contentful
-    const client = createClient({ accessToken: process.env.CONTENTFUL_TOKEN });
-    const space = await client.getSpace(process.env.CONTENTFUL_SPACE_ID);
-    const env = await space.getEnvironment(process.env.CONTENTFUL_ENVIRONMENT);
+    const space = await client.getSpace(CONTENTFUL_SPACE_ID);
+    const env = await space.getEnvironment(CONTENTFUL_ENVIRONMENT);
 
-    console.log("Environment connected successfully.");
-
-    const folder = "./articles";
-    const files = fs.readdirSync(folder).filter(f => f.endsWith(".md"));
-
-    console.log("Markdown files found:", files);
+    const articlesDir = path.join(__dirname, 'articles');
+    const files = fs.readdirSync(articlesDir).filter(f => f.endsWith('.md'));
 
     for (const file of files) {
-      const filePath = path.join(folder, file);
-      const markdown = fs.readFileSync(filePath, "utf-8").trim();
+      const filePath = path.join(articlesDir, file);
+      const markdown = fs.readFileSync(filePath, 'utf8');
 
-      if (!markdown) {
-        console.log(`Skipping empty file: ${file}`);
-        continue;
-      }
+      const title = path.basename(file, '.md');
+      const slug = slugify(title, { lower: true });
 
       let richText = await richTextFromMarkdown(markdown);
 
-      // Wrap plain text in paragraph if Rich Text is empty
+      // Fallback if richText is empty
       if (!richText || !richText.content || richText.content.length === 0) {
         richText = {
           nodeType: 'document',
@@ -58,50 +52,37 @@ async function run() {
         };
       }
 
-      const title = file.replace(".md", "");
-      const slug = slugify(title, { lower: true });
-
-      // Payload for Contentful
       const payload = {
         title: { "en-GB": title },
         slug: { "en-GB": slug },
         body: { "en-GB": richText }
       };
 
-      // Debug logs
-      console.log("Creating/updating entry with payload:", {
-        title,
-        slug,
-        richTextPreview: documentToPlainTextString(richText).substring(0, 100)
+      console.log("Syncing article:", title);
+      console.log("Payload preview:", JSON.stringify(payload, null, 2));
+
+      // Check if entry already exists
+      const existing = await env.getEntries({
+        content_type: "article",
+        "fields.slug": slug
       });
 
-      try {
-        const existing = await env.getEntries({
-          content_type: "article",
-          "fields.slug": slug
-        });
-
-        let entry;
-        if (existing.items.length > 0) {
-          entry = existing.items[0];
-          console.log(`Updating existing entry: ${title}`);
-          entry.fields = payload;
-          await entry.update();
-        } else {
-          console.log(`Creating new entry: ${title}`);
-          entry = await env.createEntry("article", { fields: payload });
-        }
-
-        await entry.publish();
-        console.log(`Published: ${title}`);
-      } catch (err) {
-        console.error(`Error creating/publishing entry "${title}":`, err);
+      let entry;
+      if (existing.items.length > 0) {
+        entry = existing.items[0];
+        entry.fields = payload;
+        await entry.update();
+        console.log(`Updated existing entry: ${title}`);
+      } else {
+        entry = await env.createEntry("article", { fields: payload });
+        console.log(`Created new entry: ${title}`);
       }
-    }
 
-    console.log("=== Contentful sync completed ===");
+      await entry.publish();
+      console.log(`Published entry: ${title}`);
+    }
   } catch (err) {
-    console.error("Fatal error during sync:", err);
+    console.error("Sync failed:", err);
     process.exit(1);
   }
 }
