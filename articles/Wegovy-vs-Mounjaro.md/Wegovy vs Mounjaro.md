@@ -136,7 +136,7 @@ When deciding between GLP-1 medications like Wegovy and Mounjaro, there’s no o
 
 ## **Real Patient Experiences: Life on Wegovy and Mounjaro**
 
-GLP-1 weight loss injections, such as Wegovy and Mounjaro, have helped thousands of people take back control of their health. The journey is very individual, and whilst clinical trials offer data, real patient experiences can provide a more personal insight into what you can expect.
+GLP-1 weight loss injections, such as Wegovy and Mounjaro, have helped thousands of people take back control of their health. The journey is very individual, and whilst clinical trials offer data, real patient experiences can provide a much more personal insight into what you can expect.
 
 **Wegovy: Steady, Consistent Progress and Appetite Control**
 
@@ -206,6 +206,6 @@ Every patient’s experience is unique. These stories highlight the importance o
 </ol>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NzQxNjA4NiwtMTA4MDQ4MDAxNiwxOT
-Y3NDE2MDg2XX0=
+eyJoaXN0b3J5IjpbMTM5MjE5ODM4NywxOTY3NDE2MDg2LC0xMD
+gwNDgwMDE2LDE5Njc0MTYwODZdfQ==
 -->
