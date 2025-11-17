@@ -18,8 +18,8 @@ jobs:
           node-version: 18
 
       - name: Install Dependencies
-        run: |
-          npm install contentful-management @contentful/rich-text-from-markdown slugify
+  run: npm install
+
 
       - name: List markdown files (debug)
         run: ls -la articles/
