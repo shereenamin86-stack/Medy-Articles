@@ -204,7 +204,9 @@ Every patient’s experience is unique. These stories highlight the importance o
     <a href="#note8">↩</a>
   </li>
 </ol>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTU5Mzc0NjgsLTE4ODEyNDAyODgsNj
-MxMzYwOTQ2LDUyNjI5NTc0NiwxNTUzODQ2NDA0XX0=
+eyJoaXN0b3J5IjpbNjc1MjU1MTU0LC0xMDE1OTM3NDY4LC0xOD
+gxMjQwMjg4LDYzMTM2MDk0Niw1MjYyOTU3NDYsMTU1Mzg0NjQw
+NF19
 -->
