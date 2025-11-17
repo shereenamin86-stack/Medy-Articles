@@ -1,6 +1,8 @@
 # Welcome to StackEdit!
 *Written by Shereen Amin, Pharmacist Prescriber and Medical Writer*
 
+Test
+
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 
 
@@ -143,6 +145,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDU5ODUyMjgsMTUzMTQxNjY3MiwtMz
-MyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbMTUxOTUzNTc3NCwtMTEwNTk4NTIyOCwxNT
+MxNDE2NjcyLC0zMzI0NTUzNjNdfQ==
 -->
