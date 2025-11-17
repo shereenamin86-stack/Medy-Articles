@@ -8,23 +8,24 @@ on:
 jobs:
   sync:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      # Step 1: Checkout the repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Setup Node
+      # Step 2: Setup Node.js
+      - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: 18
 
-      - name: Install Dependencies
-  run: npm install
+      # Step 3: Install dependencies
+      - name: Install dependencies
+        run: npm install contentful-management @contentful/rich-text-from-markdown slugify @contentful/rich-text-plain-text-renderer
 
-
-      - name: List markdown files (debug)
-        run: ls -la articles/
-
-      - name: Run Sync Script (DEBUG)
+      # Step 4: Run the sync script
+      - name: Run Contentful sync
         env:
           CONTENTFUL_SPACE_ID: ${{ secrets.CONTENTFUL_SPACE_ID }}
           CONTENTFUL_ENVIRONMENT: ${{ secrets.CONTENTFUL_ENVIRONMENT }}
