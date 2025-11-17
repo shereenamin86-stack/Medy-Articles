@@ -59,6 +59,8 @@ async function run() {
         body: { "en-GB": richText }
       };
 
+      console.log("Body field preview:", JSON.stringify(payload.body["en-GB"], null, 2));
+
       console.log("=== Syncing article ===");
       console.log("Title:", title);
       console.log("Payload preview:", JSON.stringify(payload, null, 2));
