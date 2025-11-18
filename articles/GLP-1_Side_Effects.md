@@ -267,14 +267,14 @@
   </ul>
 
   <p>
-    These patient reported side effects are generally less common, but raising them with your clinician helps ensure your treatment remains safe and tailored to you.
+    These patient reported side effects are generally less common, but raising them with the Medy Clinical Team helps ensure your treatment remains safe and tailored to you.
   </p>
 
   <h2 id="reduce-side-effects">How to reduce GLP-1 side effects before they start</h2>
 
   <ul>
-    <li>Follow a gradual <strong>dose escalation</strong> plan as advised by your clinician.</li>
-    <li>Eat mindfully and avoid large, heavy meals.</li>
+    <li>Follow a gradual <strong>dose escalation</strong> plan as advised by Medy Clinical Team.</li>
+    <li>Eat mindfully and avoid large, heavy meals. Do not undereat.</li>
     <li>Stay well hydrated every day.</li>
     <li>Limit alcohol, especially around dose increases.</li>
     <li>Track any side effects so they can be reviewed and managed promptly.</li>
@@ -387,10 +387,10 @@
 }
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzgyOTIwNjgsMTI4OTE0NzQ4OSwtMj
-gwMjY2OTQ0LC02NDk3NzUxOCwtODMzMjEyMDQ1LC0xMTQ5NzM0
-ODc1LC0xOTE3OTY5NDAyLDE2MDg3NjMzNjcsODQwNTI4ODQwLD
-cyMjk0MzEzLC02OTU5NDAyMTQsLTE0NjQxNzQ3NDEsMjA2MjU1
-ODAyOCwxNTE5NTM1Nzc0LC0xMTA1OTg1MjI4LDE1MzE0MTY2Nz
-IsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbLTg5NDY4MTkxMywtMjA3ODI5MjA2OCwxMj
+g5MTQ3NDg5LC0yODAyNjY5NDQsLTY0OTc3NTE4LC04MzMyMTIw
+NDUsLTExNDk3MzQ4NzUsLTE5MTc5Njk0MDIsMTYwODc2MzM2Ny
+w4NDA1Mjg4NDAsNzIyOTQzMTMsLTY5NTk0MDIxNCwtMTQ2NDE3
+NDc0MSwyMDYyNTU4MDI4LDE1MTk1MzU3NzQsLTExMDU5ODUyMj
+gsMTUzMTQxNjY3MiwtMzMyNDU1MzYzXX0=
 -->
