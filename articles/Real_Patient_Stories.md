@@ -46,13 +46,13 @@
 
 <p><em>“One of my biggest worries was giving myself the first injection,”</em> Wendy admitted. <em>“Doing it with my daughter made an enormous difference. We sat together, counted down from three and pressed our pens at the same moment.”</em></p>
 
-<p>This shared moment helped her overcome her pre treatment anxiety and set the tone for the supportive journey that followed.</p>
+<p>This shared moment helped her overcome her pre-treatment anxiety and set the tone for the supportive journey that followed.</p>
 
 <h3>The First Weeks on Mounjaro: Small Changes With a Big Impact</h3>
 
 <p>Once Wendy moved past the initial nerves, she noticed positive changes quickly. Her appetite felt calmer and easier to manage. Her portions reduced naturally. The evening snacking she had struggled with for years faded without feeling forced.</p>
 
-<p>Mild side effects appeared occasionally, such as nausea and sulphur burps, mostly on injection days. These were manageable with simple meals, good hydration and pacing herself on those days.</p>
+<p>Mild side effects appeared occasionally, such as nausea and bloating, mostly on injection days. These were manageable with simple meals, good hydration and pacing herself on those days.</p>
 
 <p>With regular check ins from her prescriber and the encouragement of her daughter, she felt supported every step of the way rather than left to manage alone.</p>
 
@@ -156,6 +156,6 @@
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNDg1MTE0NSwyODAyNTY5OTAsMTk4Mj
-Y0MjAzMSw3MTEyNTMwNjFdfQ==
+eyJoaXN0b3J5IjpbLTE1MjM1MDI5MTUsMjgwMjU2OTkwLDE5OD
+I2NDIwMzEsNzExMjUzMDYxXX0=
 -->
