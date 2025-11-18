@@ -64,10 +64,11 @@
   <p><strong>How to manage nausea</strong></p>
   <ul>
     <li>Eat <strong>small, frequent meals</strong> rather than large portions.</li>
-    <li>Avoid high fat, greasy, or spicy foods.</li>
-    <li>Try ginger, peppermint tea, or sugar free mints.</li>
+    <li>Avoid high fat, greasy, spicy or strong-smelling foods.</li>
+    <li>Try ginger, peppermint or fennel tea, or sugar free mints.</li>
     <li>Sip fluids <strong>between meals</strong> instead of with them.</li>
     <li>Avoid lying down immediately after eating.</li>
+   
     <li>Speak to your healthcare provider if nausea is severe or persistent, as your dose may need adjusting or you may benefit from a trial of anti-sickness medication.</li>
   </ul>
 
@@ -366,10 +367,10 @@
 }
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEwMTUxODg3LDEyODkxNDc0ODksLTI4MD
-I2Njk0NCwtNjQ5Nzc1MTgsLTgzMzIxMjA0NSwtMTE0OTczNDg3
-NSwtMTkxNzk2OTQwMiwxNjA4NzYzMzY3LDg0MDUyODg0MCw3Mj
-I5NDMxMywtNjk1OTQwMjE0LC0xNDY0MTc0NzQxLDIwNjI1NTgw
-MjgsMTUxOTUzNTc3NCwtMTEwNTk4NTIyOCwxNTMxNDE2NjcyLC
-0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbMTA5MjU2NDI3NSwxMjg5MTQ3NDg5LC0yOD
+AyNjY5NDQsLTY0OTc3NTE4LC04MzMyMTIwNDUsLTExNDk3MzQ4
+NzUsLTE5MTc5Njk0MDIsMTYwODc2MzM2Nyw4NDA1Mjg4NDAsNz
+IyOTQzMTMsLTY5NTk0MDIxNCwtMTQ2NDE3NDc0MSwyMDYyNTU4
+MDI4LDE1MTk1MzU3NzQsLTExMDU5ODUyMjgsMTUzMTQxNjY3Mi
+wtMzMyNDU1MzYzXX0=
 -->
