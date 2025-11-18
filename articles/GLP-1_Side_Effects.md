@@ -4,7 +4,7 @@
   <h1> GLP-1 Weight Loss Treatments: Common Side Effects and How to Manage Them</h1>
 
   <p>
-    GLP-1 medicines such as <strong>Wegovy</strong> and <strong>Mounjaro</strong> are widely prescribed for 
+    GLP-1 medicines, such as <strong>Wegovy</strong> and <strong>Mounjaro</strong>, are widely prescribed for 
     <strong>weight loss</strong> and <strong>Type 2 diabetes management</strong>. 
     These treatments slow digestion, reduce appetite, and help regulate blood sugar. 
     While highly effective, many people experience side effects during the first few weeks or when their dose increases. 
@@ -331,15 +331,14 @@
   <h2 id="conclusion-glp1">Conclusion: managing GLP-1 side effects for better results</h2>
 
   <p>
-    GLP-1 medications such as Wegovy, Ozempic, Mounjaro, Saxenda, and Victoza are powerful tools for weight loss and diabetes management. 
+    GLP-1 medications such as Wegovy and Mounjaro are powerful tools for weight loss and diabetes management. 
     Side effects are common, particularly at the start of treatment, but most symptoms including nausea, constipation, diarrhoea, bloating, 
     headaches, and patient reported issues such as sulphur burps, alopecia, or menstrual changes are temporary and manageable.
   </p>
 
   <p>
     Understanding why side effects occur and how to respond helps you stay comfortable and continue treatment long enough to see real benefits. 
-    For personalised support, dosing guidance, or help managing side effects, speak to a trained clinician. 
-    Services such as <strong>Medy.UK</strong> can provide tailored advice to keep you on track and help you achieve the best possible results 
+    For personalised support, dosing guidance, or help managing side effects, speak to the Medy Clinical Team, as we can provide tailored advice to keep you on track and help you achieve the best possible results 
     from your GLP-1 therapy.
   </p>
 
@@ -387,7 +386,7 @@
 }
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNjA4MjIxMCwtMjA3ODI5MjA2OCwxMj
+eyJoaXN0b3J5IjpbLTE3MjM3MjYzMiwtMjA3ODI5MjA2OCwxMj
 g5MTQ3NDg5LC0yODAyNjY5NDQsLTY0OTc3NTE4LC04MzMyMTIw
 NDUsLTExNDk3MzQ4NzUsLTE5MTc5Njk0MDIsMTYwODc2MzM2Ny
 w4NDA1Mjg4NDAsNzIyOTQzMTMsLTY5NTk0MDIxNCwtMTQ2NDE3
