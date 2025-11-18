@@ -85,7 +85,7 @@
     <li>Take small sips of water, electrolytes or oral rehydration solutions to prevent dehydration.</li>
     <li>When ready to eat, choose bland foods such as toast, crackers, or plain rice. Eat little and often.</li>
     <li>Avoid alcohol until symptoms have completely settled.</li>
-    <li>Seek medical advice if vomiting lasts more than 24 hours or worsens, if it is accompanie.</li>
+    <li>Seek medical advice if vomiting lasts more than 24 hours or worsens, if it is accompanied by abdominal pain or if you notice signs of dehydration, such as less frequent passing of urine or a feeling of light-headedness.</li>
   </ul>
 
   <h3 id="diarrhoea">3. Diarrhoea</h3>
@@ -101,7 +101,7 @@
     <li>Avoid caffeine, alcohol, and high fat foods.</li>
     <li>Eat simple foods such as rice, bananas, and yoghurt.</li>
     <li>Consider safe over the counter remedies if recommended by a clinician.</li>
-    <li>Contact a healthcare professional if diarrhoea is severe or continues for more than a few days.</li>
+    <li>Contact a healthcare professional if diarrhoea is severe or continues for more than a few days, or if you note signs of dehydration.</li>
   </ul>
 
   <h3 id="constipation">4. Constipation</h3>
@@ -367,10 +367,10 @@
 }
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MzczMTQ1OCwxMjg5MTQ3NDg5LC0yOD
-AyNjY5NDQsLTY0OTc3NTE4LC04MzMyMTIwNDUsLTExNDk3MzQ4
-NzUsLTE5MTc5Njk0MDIsMTYwODc2MzM2Nyw4NDA1Mjg4NDAsNz
-IyOTQzMTMsLTY5NTk0MDIxNCwtMTQ2NDE3NDc0MSwyMDYyNTU4
-MDI4LDE1MTk1MzU3NzQsLTExMDU5ODUyMjgsMTUzMTQxNjY3Mi
-wtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTIwODcwNDEyMTUsMTI4OTE0NzQ4OSwtMj
+gwMjY2OTQ0LC02NDk3NzUxOCwtODMzMjEyMDQ1LC0xMTQ5NzM0
+ODc1LC0xOTE3OTY5NDAyLDE2MDg3NjMzNjcsODQwNTI4ODQwLD
+cyMjk0MzEzLC02OTU5NDAyMTQsLTE0NjQxNzQ3NDEsMjA2MjU1
+ODAyOCwxNTE5NTM1Nzc0LC0xMTA1OTg1MjI4LDE1MzE0MTY2Nz
+IsLTMzMjQ1NTM2M119
 -->
