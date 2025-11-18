@@ -131,9 +131,9 @@
 
 <h3>A Clinician’s Perspective: Why Proper Support Matters</h3>
 
-<p>Experiencing both sides of the journey has strengthened her belief that GLP-1 treatments work best when patients receive proper, personalised support. Many online providers rely on quick, asynchronous consultations that offer minimal follow-up, limited guidance and no real relationship with the prescriber. A more supportive and human approach leads to better outcomes and greater confidence.</p>
+<p>Experiencing both sides of the journey has strengthened her belief that GLP-1 weight loss treatments work best when patients receive proper, personalised support. Many online providers rely on quick, asynchronous consultations that offer minimal follow-up, limited guidance and no real relationship with the prescriber. A more supportive and personable approach leads to better outcomes and greater confidence.</p>
 
-<p>Video consultations, ongoing check-ins and clear advice on side effects, dosing and building long-term healthy habits can make a meaningful difference. This is exactly what <strong>Medy</strong> offers. Patients receive tailored guidance, compassionate support and market-leading value. Medy combines clinical expertise with genuine care, helping people achieve results and maintain them sustainably.</p>
+<p>Video consultations, ongoing check-ins and clear advice on side effects, dosing and building long-term healthy habits can make a meaningful difference. This is exactly what <strong>[Medy](medy.uk)</strong> offers. Patients receive tailored guidance, compassionate support and market-leading value. Medy combines clinical expertise with genuine care, helping people achieve results and maintain them sustainably.</p>
 
 <hr>
 
@@ -156,6 +156,6 @@
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYxNTQ3OTAsMjgwMjU2OTkwLDE5ODI2ND
-IwMzEsNzExMjUzMDYxXX0=
+eyJoaXN0b3J5IjpbNjY0MTkxNDIzLDI4MDI1Njk5MCwxOTgyNj
+QyMDMxLDcxMTI1MzA2MV19
 -->
