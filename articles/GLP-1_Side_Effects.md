@@ -42,7 +42,7 @@
   <p>
     GLP-1 receptor agonists mimic a natural hormone that slows stomach emptying. 
     This is one of the main ways these medicines reduce appetite and support weight loss. 
-    Howeverm because food stays in the stomach for longer, symptoms such as nausea, bloating, and fullness can occur, 
+    However, because food stays in the stomach for longer, symptoms such as nausea, bloating, and fullness can occur, 
     especially early in treatment or after dose increases.
   </p>
 
@@ -68,15 +68,15 @@
     <li>Try ginger, peppermint or fennel tea, or sugar free mints.</li>
     <li>Sip fluids <strong>between meals</strong> instead of with them.</li>
     <li>Avoid lying down immediately after eating.</li>
-    <li>Get fresh air: taking a short walk can help to relieve symptoms</li>
-    <li>Speak to your healthcare provider if nausea is severe or persistent, as your dose may need adjusting or you may benefit from a trial of anti-sickness medication.</li>
+    <li>Get fresh air: taking a short walk can help to relieve symptoms.</li>
+    <li>Speak to your healthcare provider if nausea is severe or persistent, as your dose may need adjusting and/or you may benefit from a trial of anti-sickness medication.</li>
   </ul>
 
   <h3 id="vomiting">2. Vomiting</h3>
 
   <p>
     Vomiting may occur alongside nausea, especially with heavy meals or rapid dose escalation. 
-    It is generally temporary but should be monitored.
+    It is generally temporary but should be closely monitored.
   </p>
 
   <p><strong>How to manage vomiting</strong></p>
@@ -386,10 +386,10 @@
 }
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjM3MjYzMiwtMjA3ODI5MjA2OCwxMj
-g5MTQ3NDg5LC0yODAyNjY5NDQsLTY0OTc3NTE4LC04MzMyMTIw
-NDUsLTExNDk3MzQ4NzUsLTE5MTc5Njk0MDIsMTYwODc2MzM2Ny
-w4NDA1Mjg4NDAsNzIyOTQzMTMsLTY5NTk0MDIxNCwtMTQ2NDE3
-NDc0MSwyMDYyNTU4MDI4LDE1MTk1MzU3NzQsLTExMDU5ODUyMj
-gsMTUzMTQxNjY3MiwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbNzYzMjgxMjc2LC0yMDc4MjkyMDY4LDEyOD
+kxNDc0ODksLTI4MDI2Njk0NCwtNjQ5Nzc1MTgsLTgzMzIxMjA0
+NSwtMTE0OTczNDg3NSwtMTkxNzk2OTQwMiwxNjA4NzYzMzY3LD
+g0MDUyODg0MCw3MjI5NDMxMywtNjk1OTQwMjE0LC0xNDY0MTc0
+NzQxLDIwNjI1NTgwMjgsMTUxOTUzNTc3NCwtMTEwNTk4NTIyOC
+wxNTMxNDE2NjcyLC0zMzI0NTUzNjNdfQ==
 -->
