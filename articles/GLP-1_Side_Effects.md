@@ -163,8 +163,8 @@
     <li>Drink water regularly throughout the day.</li>
     <li>Eat balanced meals even if your appetite is lower.</li>
     <li>Avoid skipping meals.</li>
-    <li>Use simple pain relief such as paracetamol if it is suitable for you.</li>
-  <li>Ensure you are managing adequate sleep.</li>  
+    <li>Use simple pain relief, such as paracetamol or ibuprofen, if suitable for you.</li>
+  <li>Ensure you are getting adequate sleep.</li>  
     <li>Seek advice if headaches become severe or persistent, or if you notice any vision changes.</li>
   </ul>
 
@@ -386,10 +386,10 @@
 }
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MjY4OTEyNywxMjg5MTQ3NDg5LC0yOD
-AyNjY5NDQsLTY0OTc3NTE4LC04MzMyMTIwNDUsLTExNDk3MzQ4
-NzUsLTE5MTc5Njk0MDIsMTYwODc2MzM2Nyw4NDA1Mjg4NDAsNz
-IyOTQzMTMsLTY5NTk0MDIxNCwtMTQ2NDE3NDc0MSwyMDYyNTU4
-MDI4LDE1MTk1MzU3NzQsLTExMDU5ODUyMjgsMTUzMTQxNjY3Mi
-wtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbNTUzNzI4MDY1LDEyODkxNDc0ODksLTI4MD
+I2Njk0NCwtNjQ5Nzc1MTgsLTgzMzIxMjA0NSwtMTE0OTczNDg3
+NSwtMTkxNzk2OTQwMiwxNjA4NzYzMzY3LDg0MDUyODg0MCw3Mj
+I5NDMxMywtNjk1OTQwMjE0LC0xNDY0MTc0NzQxLDIwNjI1NTgw
+MjgsMTUxOTUzNTc3NCwtMTEwNTk4NTIyOCwxNTMxNDE2NjcyLC
+0zMzI0NTUzNjNdfQ==
 -->
