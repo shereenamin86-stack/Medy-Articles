@@ -296,7 +296,7 @@
 
   <p>
   The Medy Clinical Team can adjust your dosing schedule, recommend supportive treatments, 
-    or advise that you check for other causes of your symptoms.
+    or advise that you are checked for other causes of your symptoms.
   </p>
 
   <h2 id="faq-glp1-side-effects">GLP-1 side effects FAQs</h2>
@@ -327,6 +327,27 @@
     or swelling of the face or throat. These may be signs of serious but rare side effects such as pancreatitis, gallbladder problems, 
     or allergic reactions. See <a href="#serious-side-effects">less common but important side effects</a>.
   </p>
+
+<h2 id="mhra-yellow-card">Reporting side effects to the MHRA (Yellow Card scheme)</h2>
+
+<p>
+  If you experience side effects while taking a GLP-1 medicine, you can report them directly to the 
+  <strong>Medicines and Healthcare products Regulatory Agency (MHRA)</strong> through the 
+  <strong>Yellow Card scheme</strong>. This national safety system helps monitor medicines in the UK 
+  and ensures that new or unexpected side effects are identified as early as possible.
+</p>
+
+<p>
+  Both <strong>patients and healthcare professionals</strong> can submit a Yellow Card report. 
+  You do not need to be completely certain that the medicine caused the side effect. 
+  If you suspect that there may be a link, reporting it is still useful.
+</p>
+
+<p>
+  Reports can be submitted online via the official Yellow Card website, through the mobile app, 
+  or you can ask your clinician to complete one for you. Sharing your experience helps improve the 
+  safety of GLP-1 treatments and supports better care for everyone who uses these medicines.
+</p>
 
   <h2 id="conclusion-glp1">Conclusion: managing GLP-1 side effects for better results</h2>
 
@@ -386,7 +407,7 @@
 }
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTI1MzE5MzYsLTIwNzgyOTIwNjgsMT
+eyJoaXN0b3J5IjpbLTEwOTM1OTcxOTMsLTIwNzgyOTIwNjgsMT
 I4OTE0NzQ4OSwtMjgwMjY2OTQ0LC02NDk3NzUxOCwtODMzMjEy
 MDQ1LC0xMTQ5NzM0ODc1LC0xOTE3OTY5NDAyLDE2MDg3NjMzNj
 csODQwNTI4ODQwLDcyMjk0MzEzLC02OTU5NDAyMTQsLTE0NjQx
