@@ -30,7 +30,7 @@
   <section>
     <h2>A Lifetime of Dieting With No Lasting Results</h2>
     <p>
-      Wendy had tried almost every weight loss method over the years, including slimming classes, strict diet plans, detox weeks, shakes and well known fad diets. Some worked temporarily. However, the weight always crept back once the classes stopped or the routine became too difficult to sustain.
+      Wendy had tried almost every weight loss method over the years, including slimming classes, strict diet plans, shakes and well-known fad diets. Some worked temporarily. However, the weight always crept back once the classes stopped or the routine became too difficult to sustain.
     </p>
     <p>
       “I was tired of losing the same weight again and again,” she said. “I did not want another fad diet that would leave me hungry and miserable, only to regain everything after I stopped going to the classes.”
@@ -152,5 +152,5 @@
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTQ4NTYyNjJdfQ==
+eyJoaXN0b3J5IjpbMTExNzQzMzcwXX0=
 -->
