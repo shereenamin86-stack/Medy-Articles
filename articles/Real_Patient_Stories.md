@@ -26,7 +26,7 @@
 
 <p>For years, 65 year old Wendy felt as though her weight was holding her back. With high blood pressure, high cholesterol and rising blood sugar levels, she worried about her long term health. She also felt frustrated that she could not keep up with her lively grandchildren.</p>
 
-<p>“I did not want to sit on the sidelines,” she explained. “I wanted to get down on the floor with them, chase them around the garden and actually enjoy it.”</p>
+<p><em>“I did not want to sit on the sidelines,”</em> she explained. <em>“I wanted to get down on the floor with them, chase them around the garden and actually enjoy it.”</em></p>
 
 <p>At the same time, a family holiday to Lanzarote was coming up in October. Wendy wanted to feel confident, comfortable and mobile enough to make the most of it. However, like many people living with excess weight, she felt stuck.</p>
 
@@ -34,7 +34,7 @@
 
 <p>Wendy had tried almost every weight loss method over the years, including slimming classes, strict diet plans, shakes and well-known fad diets. Some worked temporarily. However, the weight always crept back once the classes stopped or the routine became too difficult to sustain.</p>
 
-<p>“I was tired of losing the same weight again and again,” she said. “I did not want another fad diet that would leave me hungry and miserable, only to regain everything after I stopped going to the classes.”</p>
+<p><em>“I was tired of losing the same weight again and again,”</em> she said. <em>“I did not want another fad diet that would leave me hungry and miserable, only to regain everything after I stopped going to the classes.”</em></p>
 
 <p>Wendy wanted something realistic and sustainable. She no longer wanted to repeat the cycle of short term restriction followed by weight regain.</p>
 
@@ -44,7 +44,7 @@
 
 <p>Rather than beginning alone, they decided to start treatment at the same time so they could support one another throughout the process.</p>
 
-<p>“One of my biggest worries was giving myself the first injection,” Wendy admitted. “Doing it with my daughter made an enormous difference. We sat together, counted down from three and pressed our pens at the same moment.”</p>
+<p><em>“One of my biggest worries was giving myself the first injection,”</em> Wendy admitted. <em>“Doing it with my daughter made an enormous difference. We sat together, counted down from three and pressed our pens at the same moment.”</em></p>
 
 <p>This shared moment helped her overcome her pre treatment anxiety and set the tone for the supportive journey that followed.</p>
 
@@ -69,9 +69,9 @@
   <li>Her energy levels increased dramatically.</li>
 </ul>
 
-<p>“I can walk uphill without stopping,” she said. “I sleep better, I move better and I feel younger than I have in years.”</p>
+<p><em>“I can walk uphill without stopping,”</em> she said. <em>“I sleep better, I move better and I feel younger than I have in years.”</em></p>
 
-<p>She also noticed a real shift in her confidence. “For the first time in ages, I looked in the mirror and recognised myself again.”</p>
+<p>She also noticed a real shift in her confidence. <em>“For the first time in ages, I looked in the mirror and recognised myself again.”</em></p>
 
 <h3>Reaching Her Personal Goal in Lanzarote</h3>
 
@@ -79,7 +79,7 @@
 
 <p>She felt comfortable in her clothes, confident in photos and excited instead of anxious. She enjoyed long beach walks, exploring the town and swimming without breathlessness or discomfort.</p>
 
-<p>However, her favourite part was simple. “Keeping up with the grandchildren, and sometimes overtaking them.”</p>
+<p>However, her favourite part was simple. <em>“Keeping up with the grandchildren, and sometimes overtaking them.”</em></p>
 
 <h3>A Healthier, More Balanced Lifestyle</h3>
 
@@ -87,23 +87,23 @@
 
 <p>Food became less emotional and more intuitive. Exercise felt enjoyable rather than punishing. With her daughter’s support and the appetite control from Mounjaro, the journey felt achievable instead of overwhelming.</p>
 
-<p>“Mounjaro did not do the work for me,” she said. “It simply gave me the breathing space I needed to build healthier habits without constantly battling cravings.”</p>
+<p><em>“Mounjaro did not do the work for me,”</em> she said. <em>“It simply gave me the breathing space I needed to build healthier habits without constantly battling cravings.”</em></p>
 
 <h3>Looking Ahead With Confidence</h3>
 
 <p>Wendy now maintains her progress with daily walks, balanced meals and regular check ins. Most importantly, she believes her results are long lasting and realistic.</p>
 
-<p>“It is the first time I have lost weight without being terrified of gaining it all back.”</p>
+<p><em>“It is the first time I have lost weight without being terrified of gaining it all back.”</em></p>
 
 <h3>Wendy’s Advice for Anyone Considering Mounjaro</h3>
 
 <p>Her advice for anyone considering Mounjaro for weight loss is simple.</p>
 
-<p>“Be patient. Start with good support. Do not compare your progress to anyone else’s. Small steps can change everything.”</p>
+<p><em>“Be patient. Start with good support. Do not compare your progress to anyone else’s. Small steps can change everything.”</em></p>
 
 <h3>In Her Words: A Journey Summarised</h3>
 
-<p>“Starting Mounjaro with my daughter gave me the confidence to begin. The results have given me back my health, my confidence and my joy.”</p>
+<p><em>“Starting Mounjaro with my daughter gave me the confidence to begin. The results have given me back my health, my confidence and my joy.”</em></p>
 
 <hr>
 
@@ -115,7 +115,7 @@
 
 <p>Before discovering Mounjaro, she had tried many recognised weight loss approaches, including Slimming World, very low calorie diets (VLCDs) of around 800 calories per day and several meal replacement programmes. While some methods worked for short periods, none provided the long-term sustainability she needed.</p>
 
-<p>During the COVID period, she found motivation again and successfully lost 25 kilograms through a keto lifestyle, maintaining her results for almost three years. However, an all-inclusive holiday followed by significant life stresses caused the weight to return more quickly than expected. She reflects on this time saying: <em>“I had worked so hard to lose the weight and keep it off. Watching it come back during a stressful period was incredibly discouraging.”</em></p>
+<p>During the COVID period, she found motivation again and successfully lost 25 kilograms through a keto lifestyle, maintaining her results for almost three years. However, an all-inclusive holiday followed by significant life stresses caused the weight to return more quickly than expected. She reflects on this time saying: <em>“I had worked so hard to lose the weight and keep it off. Watching it come back during a stressful period was incredibly discouraging.</em>”</p>
 
 <h3>Starting Mounjaro: Immediate and Noticeable Effects</h3>
 
@@ -156,5 +156,6 @@
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MjY0MjAzMSw3MTEyNTMwNjFdfQ==
+eyJoaXN0b3J5IjpbMjgwMjU2OTkwLDE5ODI2NDIwMzEsNzExMj
+UzMDYxXX0=
 -->
