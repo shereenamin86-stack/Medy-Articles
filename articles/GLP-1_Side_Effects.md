@@ -2,7 +2,7 @@
   <meta name="description" content="Learn about common GLP-1 side effects such as nausea, constipation, diarrhoea, sulphur burps and hair thinning, plus practical tips to manage them safely.">
 
   <h1> GLP-1 Weight Loss Treatments: Common Side Effects and How to Manage Them</h1>
-
+<p><em>Written by Shereen Amin, Pharmacist Prescriber and Medical Writer</em></p>
   <p>
     GLP-1 medicines, such as <strong>Wegovy</strong> and <strong>Mounjaro</strong>, are widely prescribed for 
     <strong>weight loss</strong> and <strong>Type 2 diabetes management</strong>. 
@@ -432,7 +432,7 @@
 }
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMDE0MDY5OCwtODgwNTkyODgsLTIwNz
+eyJoaXN0b3J5IjpbMTQwMzU5Mzk1NSwtODgwNTkyODgsLTIwNz
 gyOTIwNjgsMTI4OTE0NzQ4OSwtMjgwMjY2OTQ0LC02NDk3NzUx
 OCwtODMzMjEyMDQ1LC0xMTQ5NzM0ODc1LC0xOTE3OTY5NDAyLD
 E2MDg3NjMzNjcsODQwNTI4ODQwLDcyMjk0MzEzLC02OTU5NDAy
