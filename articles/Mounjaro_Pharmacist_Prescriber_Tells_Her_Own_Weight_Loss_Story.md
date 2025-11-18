@@ -13,9 +13,11 @@
 
 <h2>Starting Mounjaro: Immediate and Noticeable Effects</h2>
 
-<p>In May, Shereen began her Mounjaro journey, choosing the same treatment she had prescribed to hundreds of her own patients. From the first dose, she noticed a clear physiological shift. She experienced mild nausea on the injection day but also a powerful reduction in appetite and a complete switch off of food noise that lasted the full week until her next injection was due.</p>
+<p>In May, Shereen began her Mounjaro journey, choosing the same treatment she had prescribed to hundreds of her own patients. From the first dose, she noticed a clear physiological shift. She experienced mild nausea on the injection day but also a powerful reduction in appetite and a complete switch off of food noise that lasted until her next injection was due.</p>
 
-<p>When stepping up to 5 milligrams, the journey became more challenging. She experienced more intense nausea, complete appetite suppression, fatigue and sulphur burps. These symptoms were uncomfortable at first but gradually eased as her body adapted. She chose not to increase the dose further as she was progressing well and felt stable. She also experienced some hair shedding which she recognised from her previous keto experience and attributed to rapid weight loss rather than the medication.</p>
+<p>When stepping up to the 5 milligram dose, the journey became more challenging. She experienced more intense nausea, complete appetite suppression, fatigue and sulphur burps. These symptoms were uncomfortable at first but gradually eased as her body adapted. She chose not to increase the dose further as she was progressing well and felt stable. 
+
+She also experienced some hair shedding, but she recalled that this was similarfrom her previous keto experience and attributed to rapid weight loss rather than the medication.</p>
 
 <h2>A Life Reclaimed: 23 Kilograms Down and a Return to Normal BMI</h2>
 
@@ -29,5 +31,5 @@
 
 <p>If you would like this converted into a more SEO-heavy landing page format, a shorter feature section, or Markdown instead of HTML, just let me know.</p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk3NDQyMzI0XX0=
+eyJoaXN0b3J5IjpbMTA1NTIyMzU1OV19
 -->
