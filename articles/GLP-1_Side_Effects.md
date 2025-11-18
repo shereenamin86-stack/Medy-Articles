@@ -148,6 +148,7 @@
     <li>Rotate your injection sites between the abdomen, thigh, and upper arm.</li>
     <li>Allow the pen to reach room temperature before injecting.</li>
     <li>Follow proper injection technique as advised by your healthcare team.</li>
+    <li>Try taking a non-drowsy antihistamine, or applying antihistamine cream to the area to reduce itching.</li>
     <li>Contact your clinician if reactions are painful, spreading, or worsening.</li>
   </ul>
 
@@ -385,10 +386,10 @@
 }
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjIwNDcwNjMsMTI4OTE0NzQ4OSwtMj
-gwMjY2OTQ0LC02NDk3NzUxOCwtODMzMjEyMDQ1LC0xMTQ5NzM0
-ODc1LC0xOTE3OTY5NDAyLDE2MDg3NjMzNjcsODQwNTI4ODQwLD
-cyMjk0MzEzLC02OTU5NDAyMTQsLTE0NjQxNzQ3NDEsMjA2MjU1
-ODAyOCwxNTE5NTM1Nzc0LC0xMTA1OTg1MjI4LDE1MzE0MTY2Nz
-IsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbMTM0MjY4OTEyNywxMjg5MTQ3NDg5LC0yOD
+AyNjY5NDQsLTY0OTc3NTE4LC04MzMyMTIwNDUsLTExNDk3MzQ4
+NzUsLTE5MTc5Njk0MDIsMTYwODc2MzM2Nyw4NDA1Mjg4NDAsNz
+IyOTQzMTMsLTY5NTk0MDIxNCwtMTQ2NDE3NDc0MSwyMDYyNTU4
+MDI4LDE1MTk1MzU3NzQsLTExMDU5ODUyMjgsMTUzMTQxNjY3Mi
+wtMzMyNDU1MzYzXX0=
 -->
