@@ -87,7 +87,7 @@
 
 <p>Food became less emotional and more intuitive. Exercise felt enjoyable rather than punishing. With her daughter’s support and the appetite control from Mounjaro, the journey felt achievable instead of overwhelming.</p>
 
-<p><em>“Mounjaro did not do the work for me,”</em> she said. <em>“It simply gave me the breathing space I needed to build healthier habits without constantly battling cravings.”</em></p>
+<p><em>“Mounjaro did not do the work for me,”</em> she said. <em>“It simply gave me a helping hand to build healthier habits without constantly battling cravings.”</em></p>
 
 <h3>Looking Ahead With Confidence</h3>
 
@@ -95,9 +95,9 @@
 
 <p><em>“It is the first time I have lost weight without being terrified of gaining it all back.”</em></p>
 
-<h3>Wendy’s Advice for Anyone Considering Mounjaro</h3>
+<h3>Wendy’s Advice for Anyone Considering GLP-1 Weight Loss Treatments</h3>
 
-<p>Her advice for anyone considering Mounjaro for weight loss is simple.</p>
+<p>Her advice for anyone considering Wegovy or Mounjaro for weight loss is simple.</p>
 
 <p><em>“Be patient. Start with good support. Do not compare your progress to anyone else’s. Small steps can change everything.”</em></p>
 
@@ -156,6 +156,6 @@
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg5Nzg3MzEyLDI4MDI1Njk5MCwxOTgyNj
-QyMDMxLDcxMTI1MzA2MV19
+eyJoaXN0b3J5IjpbLTk5NTc1NzUwNiwyODAyNTY5OTAsMTk4Mj
+Y0MjAzMSw3MTEyNTMwNjFdfQ==
 -->
