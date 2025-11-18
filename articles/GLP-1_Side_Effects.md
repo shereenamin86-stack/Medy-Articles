@@ -113,7 +113,7 @@
 
   <p><strong>How to manage constipation</strong></p>
   <ul>
-    <li>Increase fibre gradually with wholegrains, fruit, and vegetables.</li>
+    <li>Increase fibre gradually with wholegrains, fruit (prunes and figs are a great choice), and vegetables.</li>
     <li>Stay well hydrated throughout the day.</li>
     <li>Include light exercise, such as walking, to support digestion.</li>
     <li>Use fibre supplements or mild laxatives if advised by your clinician.</li>
@@ -139,7 +139,7 @@
   <h3 id="injection-site-reactions">6. Injection site reactions</h3>
 
   <p>
-    Redness, itching, or small lumps can occur where you inject GLP-1 medicines such as Wegovy, Ozempic, Mounjaro, or Saxenda.
+    Redness, itching, or small lumps can occur where you inject GLP-1 medicines such as Wegovy or Mounjaro.
   </p>
 
   <p><strong>How to manage injection site reactions</strong></p>
@@ -367,10 +367,10 @@
 }
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDE3MDY3NTAsMTI4OTE0NzQ4OSwtMj
-gwMjY2OTQ0LC02NDk3NzUxOCwtODMzMjEyMDQ1LC0xMTQ5NzM0
-ODc1LC0xOTE3OTY5NDAyLDE2MDg3NjMzNjcsODQwNTI4ODQwLD
-cyMjk0MzEzLC02OTU5NDAyMTQsLTE0NjQxNzQ3NDEsMjA2MjU1
-ODAyOCwxNTE5NTM1Nzc0LC0xMTA1OTg1MjI4LDE1MzE0MTY2Nz
-IsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbMzI3Mjk4NjE0LDEyODkxNDc0ODksLTI4MD
+I2Njk0NCwtNjQ5Nzc1MTgsLTgzMzIxMjA0NSwtMTE0OTczNDg3
+NSwtMTkxNzk2OTQwMiwxNjA4NzYzMzY3LDg0MDUyODg0MCw3Mj
+I5NDMxMywtNjk1OTQwMjE0LC0xNDY0MTc0NzQxLDIwNjI1NTgw
+MjgsMTUxOTUzNTc3NCwtMTEwNTk4NTIyOCwxNTMxNDE2NjcyLC
+0zMzI0NTUzNjNdfQ==
 -->
