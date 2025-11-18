@@ -1,9 +1,5 @@
-<article>
-
-  <!-- Suggested SEO meta (for your CMS head section, not StackEdit itself)
-  <meta name="title" content="Common GLP-1 Side Effects and How to Manage Them">
+<meta name="title" content="GLP-1 Weight Loss Treatments: Common GLP-1 Side Effects and How to Manage Them">
   <meta name="description" content="Learn about common GLP-1 side effects such as nausea, constipation, diarrhoea, sulphur burps and hair thinning, plus practical tips to manage them safely.">
-  -->
 
   <h1> GLP-1 Weight Loss Treatments: Common Side Effects and How to Manage Them</h1>
 
@@ -12,7 +8,7 @@
     <strong>weight loss</strong> and <strong>Type 2 diabetes management</strong>. 
     These treatments slow digestion, reduce appetite, and help regulate blood sugar. 
     While highly effective, many people experience side effects during the first few weeks or when their dose increases. 
-    The good news is that most <strong>GLP-1 side effects</strong> are predictable, temporary, and manageable with the right strategies.
+    The good news is that most <strong>GLP-1 side effects</strong> are predictable, usuatemporary, and manageable with the right strategies.
   </p>
 
   <p>
@@ -370,10 +366,10 @@
 }
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4OTE0NzQ4OSwtMjgwMjY2OTQ0LC02ND
-k3NzUxOCwtODMzMjEyMDQ1LC0xMTQ5NzM0ODc1LC0xOTE3OTY5
-NDAyLDE2MDg3NjMzNjcsODQwNTI4ODQwLDcyMjk0MzEzLC02OT
-U5NDAyMTQsLTE0NjQxNzQ3NDEsMjA2MjU1ODAyOCwxNTE5NTM1
-Nzc0LC0xMTA1OTg1MjI4LDE1MzE0MTY2NzIsLTMzMjQ1NTM2M1
-19
+eyJoaXN0b3J5IjpbLTkyNzI3OTQxMywxMjg5MTQ3NDg5LC0yOD
+AyNjY5NDQsLTY0OTc3NTE4LC04MzMyMTIwNDUsLTExNDk3MzQ4
+NzUsLTE5MTc5Njk0MDIsMTYwODc2MzM2Nyw4NDA1Mjg4NDAsNz
+IyOTQzMTMsLTY5NTk0MDIxNCwtMTQ2NDE3NDc0MSwyMDYyNTU4
+MDI4LDE1MTk1MzU3NzQsLTExMDU5ODUyMjgsMTUzMTQxNjY3Mi
+wtMzMyNDU1MzYzXX0=
 -->
