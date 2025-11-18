@@ -36,26 +36,26 @@ Many people find success by fitting short bursts of movement into their day. Ten
 Setting realistic, meaningful goals  
 Goals that have personal meaning are more motivating than broad targets. Instead of focusing only on weight, you might aim to improve your stamina, reduce cravings or feel more confident. Smaller milestones help you track progress without feeling overwhelmed.
 
-Building consistent routines  
+**Building consistent routines**  
 Daily habits such as planning meals, preparing healthy snacks or creating a regular sleep pattern can support your treatment. If you experience a setback, focus on getting back to your routine rather than feeling discouraged.
 
-Mindful eating  
+**Mindful eating**  
 Eating more slowly allows your body to recognise fullness. Avoid distractions like scrolling on your phone, and check in with your hunger every few bites. These small shifts help prevent overeating and support a healthier relationship with food.
 
-Medication Adherence and Safe Use  
+**Medication Adherence and Safe Use**  
 To get the best results from GLP-1 therapy, it helps to develop a reliable routine. Set a reminder for your weekly injection and rotate injection sites to avoid bruising or irritation. Speak to your provider before making any dose changes. If you experience unexpected symptoms, severe stomach pain or repeated vomiting, you should seek clinical advice promptly. When travelling, remember to store your pen safely and follow storage instructions.
 
-Monitoring Progress Beyond the Scale  
+**Monitoring Progress Beyond the Scale**  
 Weight is only one part of the picture. Many patients notice improvements in their energy levels, sleep quality, cravings and fitness. Some also see better readings for blood pressure, blood sugar or cholesterol. Regular check ins with your treatment provider can help you understand your progress more clearly. Plateaus are normal and do not mean that treatment has stopped working.
 
-Common Challenges and How to Overcome Them  
+**Common Challenges and How to Overcome Them**  
 Reduced appetite can make it difficult to meet your nutritional needs. Focus on prioritising protein and choosing nourishing foods in small amounts. Gastrointestinal side effects often improve over time, but adjusting your eating pace and meal size can help. Social events, holidays and special occasions may feel challenging. Planning ahead and setting realistic expectations can reduce pressure. If you experience emotional setbacks or frustration, remember that progress is rarely linear.
 
-When to Seek Additional Support  
+**When to Seek Additional Support**  
 If side effects do not settle, or if your weight loss is happening faster than expected, contact your healthcare provider. It is also important to reach out if you feel low in mood, struggle with motivation or feel unsure about your next steps. Regular reviews with a pharmacist prescriber or clinical team ensure your treatment stays safe and effective.
 
-Conclusion  
+**Conclusion**  
 GLP-1 therapy can be a powerful tool, but the habits you build alongside it create long lasting change. Simple, achievable steps in nutrition, activity and daily routines can help you feel your best. If you are ready to begin or want personalised support, reach out to your treatment provider for guidance. A tailored plan can help you stay on track and achieve steady, sustainable progress.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzgwODg5MTIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTIyNDkyMTg0MCw3MzA5OTgxMTZdfQ==
 -->
