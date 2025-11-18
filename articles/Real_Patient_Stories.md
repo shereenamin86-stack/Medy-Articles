@@ -15,6 +15,7 @@
 <body>
 
 <h1>GLP-1 Patient Journeys: Real Stories of Sustainable Weight Loss and Clinical Support</h1>
+<p><em>Written by Shereen Amin, Pharmacist Prescriber and Medical Writer</em></p>
 
 <p><strong>Wegovy</strong> and <strong>Mounjaro</strong> are transforming the way people lose weight by providing effective appetite regulation, real metabolic improvements and long-term sustainability. While clinical studies offer important data, patient stories provide the emotional truth behind the journey. In this article, we share two powerful experiences: Wendy, a 65-year-old grandmother who rediscovered her confidence and energy, and one of our UK-registered Pharmacist Prescribers who, after supporting hundreds of patients, finally prioritised her own wellbeing.</p>
 
@@ -156,6 +157,6 @@
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjU1MzMzNTEsMjgwMjU2OTkwLDE5OD
-I2NDIwMzEsNzExMjUzMDYxXX0=
+eyJoaXN0b3J5IjpbMTk2MTM3NzY0NiwyODAyNTY5OTAsMTk4Mj
+Y0MjAzMSw3MTEyNTMwNjFdfQ==
 -->
