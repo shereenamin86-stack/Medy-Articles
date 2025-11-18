@@ -32,7 +32,7 @@
 
 <h3>A Lifetime of Dieting With No Lasting Results</h3>
 
-<p>Wendy had tried almost every weight loss method over the years, including slimming classes, strict diet plans, shakes and well-known fad diets. Some worked temporarily. However, the weight always crept back once the classes stopped or the routine became too difficult to sustain.</p>
+<p>Wendy had tried almost every weight loss method over the years, including slimming classes, strict diet plans, and well-known fad diets. Some worked temporarily. However, the weight always crept back once the classes stopped or the routine became too difficult to sustain.</p>
 
 <p><em>“I was tired of losing the same weight again and again,”</em> she said. <em>“I did not want another fad diet that would leave me hungry and miserable, only to regain everything after I stopped going to the classes.”</em></p>
 
@@ -40,7 +40,7 @@
 
 <h3>A Pharmacist Daughter and a Shared Decision to Start Mounjaro</h3>
 
-<p>Wendy’s daughter is a pharmacist who works in the weight loss field and, after reviewing the risks and benefits together, they both realised that they were suitable candidates to start a Mounjaro weight loss journey under medical supervision.</p>
+<p>Wendy’s daughter happens to work in the weight loss field and, after reviewing the risks and benefits together, they both realised that they were suitable candidates to start a Mounjaro weight loss journey under medical supervision.</p>
 
 <p>Rather than beginning alone, they decided to start treatment at the same time so they could support one another throughout the process.</p>
 
@@ -156,6 +156,6 @@
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODY1OTIzMjIsMjgwMjU2OTkwLDE5OD
-I2NDIwMzEsNzExMjUzMDYxXX0=
+eyJoaXN0b3J5IjpbMTgyNDg1MTE0NSwyODAyNTY5OTAsMTk4Mj
+Y0MjAzMSw3MTEyNTMwNjFdfQ==
 -->
