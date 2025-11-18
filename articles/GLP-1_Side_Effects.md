@@ -19,7 +19,7 @@
 
   <!-- Optional hero image placeholder -->
   <figure>
-    <img src="IMAGE-URL-HERE" alt="Patient discussing GLP-1 side effects with a healthcare professional">
+    <img src="https://elements.envato.com/patient-consult-with-doctor-via-telemedicine-V6D4JYG" alt="Patient discussing GLP-1 side effects with a healthcare professional">
     <figcaption>GLP-1 treatments can be highly effective for weight loss and diabetes, but side effects are common and can usually be managed.</figcaption>
   </figure>
 
@@ -432,10 +432,11 @@
 }
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMzU5Mzk1NSwtODgwNTkyODgsLTIwNz
-gyOTIwNjgsMTI4OTE0NzQ4OSwtMjgwMjY2OTQ0LC02NDk3NzUx
-OCwtODMzMjEyMDQ1LC0xMTQ5NzM0ODc1LC0xOTE3OTY5NDAyLD
-E2MDg3NjMzNjcsODQwNTI4ODQwLDcyMjk0MzEzLC02OTU5NDAy
-MTQsLTE0NjQxNzQ3NDEsMjA2MjU1ODAyOCwxNTE5NTM1Nzc0LC
-0xMTA1OTg1MjI4LDE1MzE0MTY2NzIsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbLTMyMjM4NDAxNiwxNDAzNTkzOTU1LC04OD
+A1OTI4OCwtMjA3ODI5MjA2OCwxMjg5MTQ3NDg5LC0yODAyNjY5
+NDQsLTY0OTc3NTE4LC04MzMyMTIwNDUsLTExNDk3MzQ4NzUsLT
+E5MTc5Njk0MDIsMTYwODc2MzM2Nyw4NDA1Mjg4NDAsNzIyOTQz
+MTMsLTY5NTk0MDIxNCwtMTQ2NDE3NDc0MSwyMDYyNTU4MDI4LD
+E1MTk1MzU3NzQsLTExMDU5ODUyMjgsMTUzMTQxNjY3MiwtMzMy
+NDU1MzYzXX0=
 -->
