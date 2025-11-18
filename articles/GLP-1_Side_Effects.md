@@ -8,13 +8,13 @@
     <strong>weight loss</strong> and <strong>Type 2 diabetes management</strong>. 
     These treatments slow digestion, reduce appetite, and help regulate blood sugar. 
     While highly effective, many people experience side effects during the first few weeks or when their dose increases. 
-    The good news is that most <strong>GLP-1 side effects</strong> are predictable, usuatemporary, and manageable with the right strategies.
+    The good news is that most <strong>GLP-1 side effects</strong> are predictable, usually temporary, and very manageable with the right strategies.
   </p>
 
   <p>
     This guide explains the most common <strong>side effects of GLP-1 medications</strong>, why they happen, 
-    and practical steps to minimise discomfort. Whether you are just starting treatment or increasing your dose, 
-    understanding side effects helps you stay on track and achieve the best results.
+    and practical steps to minimise discomfort. Whether you are just starting out on treatment, or increasing your dose, 
+    understanding side effects helps you to stay on track and achieve the best results.
   </p>
 
   <!-- Optional hero image placeholder -->
@@ -42,7 +42,7 @@
   <p>
     GLP-1 receptor agonists mimic a natural hormone that slows stomach emptying. 
     This is one of the main ways these medicines reduce appetite and support weight loss. 
-    Because food stays in the stomach for longer, symptoms such as nausea, bloating, and fullness can occur, 
+    Howeverm because food stays in the stomach for longer, symptoms such as nausea, bloating, and fullness can occur, 
     especially early in treatment or after dose increases.
   </p>
 
@@ -366,7 +366,7 @@
 }
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNzI3OTQxMywxMjg5MTQ3NDg5LC0yOD
+eyJoaXN0b3J5IjpbMTc4OTY2MTM2NywxMjg5MTQ3NDg5LC0yOD
 AyNjY5NDQsLTY0OTc3NTE4LC04MzMyMTIwNDUsLTExNDk3MzQ4
 NzUsLTE5MTc5Njk0MDIsMTYwODc2MzM2Nyw4NDA1Mjg4NDAsNz
 IyOTQzMTMsLTY5NTk0MDIxNCwtMTQ2NDE3NDc0MSwyMDYyNTU4
