@@ -69,7 +69,8 @@
     <li>Sip fluids <strong>between meals</strong> instead of with them.</li>
     <li>Avoid lying down immediately after eating.</li>
     <li>Get fresh air: taking a short walk can help to relieve symptoms.</li>
-    <li>Speak to the Medy Clinical Team if nausea is severe or persistent, as your dose may need adjusting and/or you may benefit from a trial of anti-sickness medication.</li>
+    <li>Speak to the <a href="https://medy.uk" target="_blank" rel="noopener"><strong>Medy Clinical Team</strong></a>
+ if nausea is severe or persistent, as your dose may need adjusting and/or you may benefit from a trial of anti-sickness medication.</li>
   </ul>
 
   <h3 id="vomiting">2. Vomiting</h3>
@@ -431,10 +432,10 @@
 }
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQwODI1MDU5LC04ODA1OTI4OCwtMjA3OD
-I5MjA2OCwxMjg5MTQ3NDg5LC0yODAyNjY5NDQsLTY0OTc3NTE4
-LC04MzMyMTIwNDUsLTExNDk3MzQ4NzUsLTE5MTc5Njk0MDIsMT
-YwODc2MzM2Nyw4NDA1Mjg4NDAsNzIyOTQzMTMsLTY5NTk0MDIx
-NCwtMTQ2NDE3NDc0MSwyMDYyNTU4MDI4LDE1MTk1MzU3NzQsLT
-ExMDU5ODUyMjgsMTUzMTQxNjY3MiwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbMTAwMDE0MDY5OCwtODgwNTkyODgsLTIwNz
+gyOTIwNjgsMTI4OTE0NzQ4OSwtMjgwMjY2OTQ0LC02NDk3NzUx
+OCwtODMzMjEyMDQ1LC0xMTQ5NzM0ODc1LC0xOTE3OTY5NDAyLD
+E2MDg3NjMzNjcsODQwNTI4ODQwLDcyMjk0MzEzLC02OTU5NDAy
+MTQsLTE0NjQxNzQ3NDEsMjA2MjU1ODAyOCwxNTE5NTM1Nzc0LC
+0xMTA1OTg1MjI4LDE1MzE0MTY2NzIsLTMzMjQ1NTM2M119
 -->
