@@ -5,12 +5,11 @@
   <meta name="description" content="Learn about common GLP-1 side effects such as nausea, constipation, diarrhoea, sulphur burps and hair thinning, plus practical tips to manage them safely.">
   -->
 
-  <h1> GLP-1 Weight Loss TreatmenSide Effects and How to Manage Them</h1>
+  <h1> GLP-1 Weight Loss Treatments: Common Side Effects and How to Manage Them</h1>
 
   <p>
-    GLP-1 medicines such as <strong>semaglutide</strong> (Wegovy and Ozempic), <strong>tirzepatide</strong> (Mounjaro), 
-    and <strong>liraglutide</strong> (Saxenda and Victoza) are widely prescribed for 
-    <strong>weight loss</strong> and <strong>type 2 diabetes management</strong>. 
+    GLP-1 medicines such as <strong>Wegovy</strong> and <strong>Mounjaro</strong> are widely prescribed for 
+    <strong>weight loss</strong> and <strong>Type 2 diabetes management</strong>. 
     These treatments slow digestion, reduce appetite, and help regulate blood sugar. 
     While highly effective, many people experience side effects during the first few weeks or when their dose increases. 
     The good news is that most <strong>GLP-1 side effects</strong> are predictable, temporary, and manageable with the right strategies.
@@ -371,7 +370,7 @@
 }
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3Mzc5MjYzMSwtMjgwMjY2OTQ0LC02ND
+eyJoaXN0b3J5IjpbMTI4OTE0NzQ4OSwtMjgwMjY2OTQ0LC02ND
 k3NzUxOCwtODMzMjEyMDQ1LC0xMTQ5NzM0ODc1LC0xOTE3OTY5
 NDAyLDE2MDg3NjMzNjcsODQwNTI4ODQwLDcyMjk0MzEzLC02OT
 U5NDAyMTQsLTE0NjQxNzQ3NDEsMjA2MjU1ODAyOCwxNTE5NTM1
