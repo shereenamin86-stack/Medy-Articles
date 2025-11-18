@@ -69,7 +69,7 @@
     <li>Sip fluids <strong>between meals</strong> instead of with them.</li>
     <li>Avoid lying down immediately after eating.</li>
     <li>Get fresh air: taking a short walk can help to relieve symptoms.</li>
-    <li>Speak to your healthcare provider if nausea is severe or persistent, as your dose may need adjusting and/or you may benefit from a trial of anti-sickness medication.</li>
+    <li>Speak to the Medy Clinical Team if nausea is severe or persistent, as your dose may need adjusting and/or you may benefit from a trial of anti-sickness medication.</li>
   </ul>
 
   <h3 id="vomiting">2. Vomiting</h3>
@@ -209,7 +209,7 @@
   <ul>
     <li><strong>Pancreatitis</strong> – severe abdominal pain that may spread to the back, nausea, and vomiting. Seek urgent medical care.</li>
     <li><strong>Gallbladder issues</strong> – abdominal pain, fever, or yellowing of the skin or eyes.</li>
-    <li><strong>Allergic reactions</strong> – swelling of the face or throat, breathing difficulties, or a widespread rash. Call emergency services immediately.</li>
+    <li><strong>Allergic reactions</strong> – swelling of the face or throat, breathing difficulties, or a widespread rash. Call 999 immediately.</li>
   </ul>
 
   <p>
@@ -408,10 +408,10 @@
 }
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MDU5Mjg4LC0yMDc4MjkyMDY4LDEyOD
-kxNDc0ODksLTI4MDI2Njk0NCwtNjQ5Nzc1MTgsLTgzMzIxMjA0
-NSwtMTE0OTczNDg3NSwtMTkxNzk2OTQwMiwxNjA4NzYzMzY3LD
-g0MDUyODg0MCw3MjI5NDMxMywtNjk1OTQwMjE0LC0xNDY0MTc0
-NzQxLDIwNjI1NTgwMjgsMTUxOTUzNTc3NCwtMTEwNTk4NTIyOC
-wxNTMxNDE2NjcyLC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbNTY4MTkyODMsLTg4MDU5Mjg4LC0yMDc4Mj
+kyMDY4LDEyODkxNDc0ODksLTI4MDI2Njk0NCwtNjQ5Nzc1MTgs
+LTgzMzIxMjA0NSwtMTE0OTczNDg3NSwtMTkxNzk2OTQwMiwxNj
+A4NzYzMzY3LDg0MDUyODg0MCw3MjI5NDMxMywtNjk1OTQwMjE0
+LC0xNDY0MTc0NzQxLDIwNjI1NTgwMjgsMTUxOTUzNTc3NCwtMT
+EwNTk4NTIyOCwxNTMxNDE2NjcyLC0zMzI0NTUzNjNdfQ==
 -->
