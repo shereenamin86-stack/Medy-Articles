@@ -117,7 +117,7 @@
     <li>Stay well hydrated throughout the day.</li>
     <li>Include light exercise, such as walking, to support digestion.</li>
     <li>Use fibre supplements or mild laxatives if advised by your clinician.</li>
-    <li>Seek help if constipation is painful or continues for more than a week.</li>
+    <li>Seek help if constipation is painful or continues for more than a week, if you are straining when passing a bowel motion or if you notice any blood in your stools.</li>
   </ul>
 
   <h3 id="bloating">5. Bloating and indigestion</h3>
@@ -367,7 +367,7 @@
 }
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODcwNDEyMTUsMTI4OTE0NzQ4OSwtMj
+eyJoaXN0b3J5IjpbLTE1MDE3MDY3NTAsMTI4OTE0NzQ4OSwtMj
 gwMjY2OTQ0LC02NDk3NzUxOCwtODMzMjEyMDQ1LC0xMTQ5NzM0
 ODc1LC0xOTE3OTY5NDAyLDE2MDg3NjMzNjcsODQwNTI4ODQwLD
 cyMjk0MzEzLC02OTU5NDAyMTQsLTE0NjQxNzQ3NDEsMjA2MjU1
