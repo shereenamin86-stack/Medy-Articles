@@ -278,7 +278,7 @@
     <li>Stay well hydrated every day.</li>
     <li>Limit alcohol, especially around dose increases.</li>
     <li>Track any side effects so they can be reviewed and managed promptly.</li>
-    <li>Attend regular follow ups with your healthcare provider to review progress.</li>
+    <li>Attend regular follow ups with the Medy Clinical Team to review progress.</li>
   </ul>
 
   <h2 id="when-to-speak">When to speak to a healthcare professional</h2>
@@ -295,8 +295,8 @@
   </ul>
 
   <p>
-    A healthcare professional can adjust your dosing schedule, recommend supportive treatments, 
-    or check for other causes of your symptoms.
+  The Medy Clinical Team can adjust your dosing schedule, recommend supportive treatments, 
+    or refer you to che for other causes of your symptoms.
   </p>
 
   <h2 id="faq-glp1-side-effects">GLP-1 side effects FAQs</h2>
@@ -387,10 +387,10 @@
 }
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDY4MTkxMywtMjA3ODI5MjA2OCwxMj
-g5MTQ3NDg5LC0yODAyNjY5NDQsLTY0OTc3NTE4LC04MzMyMTIw
-NDUsLTExNDk3MzQ4NzUsLTE5MTc5Njk0MDIsMTYwODc2MzM2Ny
-w4NDA1Mjg4NDAsNzIyOTQzMTMsLTY5NTk0MDIxNCwtMTQ2NDE3
-NDc0MSwyMDYyNTU4MDI4LDE1MTk1MzU3NzQsLTExMDU5ODUyMj
-gsMTUzMTQxNjY3MiwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbNDkwNDYzMDc5LC0yMDc4MjkyMDY4LDEyOD
+kxNDc0ODksLTI4MDI2Njk0NCwtNjQ5Nzc1MTgsLTgzMzIxMjA0
+NSwtMTE0OTczNDg3NSwtMTkxNzk2OTQwMiwxNjA4NzYzMzY3LD
+g0MDUyODg0MCw3MjI5NDMxMywtNjk1OTQwMjE0LC0xNDY0MTc0
+NzQxLDIwNjI1NTgwMjgsMTUxOTUzNTc3NCwtMTEwNTk4NTIyOC
+wxNTMxNDE2NjcyLC0zMzI0NTUzNjNdfQ==
 -->
