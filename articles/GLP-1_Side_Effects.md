@@ -57,7 +57,7 @@
   <h3 id="nausea">1. Nausea</h3>
 
   <p>
-    Nausea is the most common <strong>GLP-1 side effect</strong>, particularly during the first two to four weeks or after increasing the dose. 
+    Nausea is the most common <strong>GLP-1 side effect</strong>, particularly during the first two to four weeks of treatment, or after increasing the dose. 
     It occurs because digestion slows, leaving food in the stomach for longer.
   </p>
 
@@ -68,7 +68,7 @@
     <li>Try ginger, peppermint tea, or sugar free mints.</li>
     <li>Sip fluids <strong>between meals</strong> instead of with them.</li>
     <li>Avoid lying down immediately after eating.</li>
-    <li>Speak to your healthcare provider if nausea is severe or persistent, as your dose may need adjusting.</li>
+    <li>Speak to your healthcare provider if nausea is severe or persistent, as your dose may need adjusting or you may benefit from a trial of anti-sickness medication.</li>
   </ul>
 
   <h3 id="vomiting">2. Vomiting</h3>
@@ -81,7 +81,7 @@
   <p><strong>How to manage vomiting</strong></p>
   <ul>
     <li>Follow the same strategies used for nausea.</li>
-    <li>Take small sips of water or oral rehydration solutions to prevent dehydration.</li>
+    <li>Take small sips of water, electrolytes or oral rehydration solutions to prevent dehydration.</li>
     <li>When ready to eat, choose bland foods such as toast, crackers, or plain rice.</li>
     <li>Avoid alcohol until symptoms have completely settled.</li>
     <li>Seek medical advice if vomiting lasts more than 24 hours or worsens.</li>
@@ -366,10 +366,10 @@
 }
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4OTY2MTM2NywxMjg5MTQ3NDg5LC0yOD
-AyNjY5NDQsLTY0OTc3NTE4LC04MzMyMTIwNDUsLTExNDk3MzQ4
-NzUsLTE5MTc5Njk0MDIsMTYwODc2MzM2Nyw4NDA1Mjg4NDAsNz
-IyOTQzMTMsLTY5NTk0MDIxNCwtMTQ2NDE3NDc0MSwyMDYyNTU4
-MDI4LDE1MTk1MzU3NzQsLTExMDU5ODUyMjgsMTUzMTQxNjY3Mi
-wtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTE0NDQ3MzMwNjAsMTI4OTE0NzQ4OSwtMj
+gwMjY2OTQ0LC02NDk3NzUxOCwtODMzMjEyMDQ1LC0xMTQ5NzM0
+ODc1LC0xOTE3OTY5NDAyLDE2MDg3NjMzNjcsODQwNTI4ODQwLD
+cyMjk0MzEzLC02OTU5NDAyMTQsLTE0NjQxNzQ3NDEsMjA2MjU1
+ODAyOCwxNTE5NTM1Nzc0LC0xMTA1OTg1MjI4LDE1MzE0MTY2Nz
+IsLTMzMjQ1NTM2M119
 -->
