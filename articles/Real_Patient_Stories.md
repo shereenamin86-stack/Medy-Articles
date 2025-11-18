@@ -79,7 +79,7 @@
 
 <p>She felt comfortable in her clothes, confident in photos and excited instead of anxious. She enjoyed long beach walks, exploring the town and swimming without breathlessness or discomfort.</p>
 
-<p>However, her favourite part was simple. <em>“Keeping up with the grandchildren, and sometimes overtaking them.”</em></p>
+<p>However, her favourite part was simple. <em>“Keeping up with the grandchildren, and sometimes overtaking them!”</em></p>
 
 <h3>A Healthier, More Balanced Lifestyle</h3>
 
@@ -156,6 +156,6 @@
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjM1MDI5MTUsMjgwMjU2OTkwLDE5OD
-I2NDIwMzEsNzExMjUzMDYxXX0=
+eyJoaXN0b3J5IjpbMjg5Nzg3MzEyLDI4MDI1Njk5MCwxOTgyNj
+QyMDMxLDcxMTI1MzA2MV19
 -->
