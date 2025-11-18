@@ -333,8 +333,8 @@
 <p>
   If you experience side effects while taking a GLP-1 medicine, you can report them directly to the 
   <strong>Medicines and Healthcare products Regulatory Agency (MHRA)</strong> through the 
-  <strong>Yellow Card scheme</strong>. This national safety system helps monitor medicines in the UK 
-  and ensures that new or unexpected side effects are identified as early as possible.
+  <a href="https://yellowcard.mhra.gov.uk/" target="_blank" rel="noopener"><strong>Yellow Card scheme</strong></a>. 
+  This national safety system helps monitor medicines in the UK and ensures that new or unexpected side effects are identified as early as possible.
 </p>
 
 <p>
@@ -344,9 +344,10 @@
 </p>
 
 <p>
-  Reports can be submitted online via the official Yellow Card website, through the mobile app, 
-  or you can ask your clinician to complete one for you. Sharing your experience helps improve the 
-  safety of GLP-1 treatments and supports better care for everyone who uses these medicines.
+  Reports can be submitted online through the 
+  <a href="https://yellowcard.mhra.gov.uk/" target="_blank" rel="noopener">Yellow Card website</a>, 
+  through the mobile app, or you can ask the Medy Clinical Team to complete one for you. 
+  Sharing your experience helps improve the safety of GLP-1 treatments and supports better care for everyone who uses these medicines.
 </p>
 
   <h2 id="conclusion-glp1">Conclusion: managing GLP-1 side effects for better results</h2>
@@ -407,10 +408,10 @@
 }
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTM1OTcxOTMsLTIwNzgyOTIwNjgsMT
-I4OTE0NzQ4OSwtMjgwMjY2OTQ0LC02NDk3NzUxOCwtODMzMjEy
-MDQ1LC0xMTQ5NzM0ODc1LC0xOTE3OTY5NDAyLDE2MDg3NjMzNj
-csODQwNTI4ODQwLDcyMjk0MzEzLC02OTU5NDAyMTQsLTE0NjQx
-NzQ3NDEsMjA2MjU1ODAyOCwxNTE5NTM1Nzc0LC0xMTA1OTg1Mj
-I4LDE1MzE0MTY2NzIsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbLTg4MDU5Mjg4LC0yMDc4MjkyMDY4LDEyOD
+kxNDc0ODksLTI4MDI2Njk0NCwtNjQ5Nzc1MTgsLTgzMzIxMjA0
+NSwtMTE0OTczNDg3NSwtMTkxNzk2OTQwMiwxNjA4NzYzMzY3LD
+g0MDUyODg0MCw3MjI5NDMxMywtNjk1OTQwMjE0LC0xNDY0MTc0
+NzQxLDIwNjI1NTgwMjgsMTUxOTUzNTc3NCwtMTEwNTk4NTIyOC
+wxNTMxNDE2NjcyLC0zMzI0NTUzNjNdfQ==
 -->
