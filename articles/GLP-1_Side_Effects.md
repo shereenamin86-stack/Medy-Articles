@@ -82,7 +82,7 @@
   <ul>
     <li>Follow the same strategies used for nausea.</li>
     <li>Take small sips of water, electrolytes or oral rehydration solutions to prevent dehydration.</li>
-    <li>When ready to eat, choose bland foods such as toast, crackers, or plain rice.</li>
+    <li>When ready to eat, choose bland foods such as toast, crackers, or plain rice. Eat little and often.</li>
     <li>Avoid alcohol until symptoms have completely settled.</li>
     <li>Seek medical advice if vomiting lasts more than 24 hours or worsens.</li>
   </ul>
@@ -366,10 +366,10 @@
 }
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDQ3MzMwNjAsMTI4OTE0NzQ4OSwtMj
-gwMjY2OTQ0LC02NDk3NzUxOCwtODMzMjEyMDQ1LC0xMTQ5NzM0
-ODc1LC0xOTE3OTY5NDAyLDE2MDg3NjMzNjcsODQwNTI4ODQwLD
-cyMjk0MzEzLC02OTU5NDAyMTQsLTE0NjQxNzQ3NDEsMjA2MjU1
-ODAyOCwxNTE5NTM1Nzc0LC0xMTA1OTg1MjI4LDE1MzE0MTY2Nz
-IsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbNTEwMTUxODg3LDEyODkxNDc0ODksLTI4MD
+I2Njk0NCwtNjQ5Nzc1MTgsLTgzMzIxMjA0NSwtMTE0OTczNDg3
+NSwtMTkxNzk2OTQwMiwxNjA4NzYzMzY3LDg0MDUyODg0MCw3Mj
+I5NDMxMywtNjk1OTQwMjE0LC0xNDY0MTc0NzQxLDIwNjI1NTgw
+MjgsMTUxOTUzNTc3NCwtMTEwNTk4NTIyOCwxNTMxNDE2NjcyLC
+0zMzI0NTUzNjNdfQ==
 -->
