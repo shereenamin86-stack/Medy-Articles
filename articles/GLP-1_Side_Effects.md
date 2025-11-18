@@ -296,7 +296,7 @@
 
   <p>
   The Medy Clinical Team can adjust your dosing schedule, recommend supportive treatments, 
-    or refer you to che for other causes of your symptoms.
+    or advise that you check for other causes of your symptoms with your GP.
   </p>
 
   <h2 id="faq-glp1-side-effects">GLP-1 side effects FAQs</h2>
@@ -304,7 +304,7 @@
   <h3>How long do GLP-1 side effects last?</h3>
   <p>
     Most common side effects such as nausea, bloating, and mild diarrhoea tend to improve within a few days to weeks as your body adapts. 
-    If symptoms persist or worsen, speak to your clinician for advice. You can revisit the section 
+    If symptoms persist or worsen, speak to the Medy Clinical Team for advice. You can revisit the section 
     <a href="#common-glp1-side-effects">Common GLP-1 side effects</a> for more detail.
   </p>
 
@@ -387,10 +387,10 @@
 }
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkwNDYzMDc5LC0yMDc4MjkyMDY4LDEyOD
-kxNDc0ODksLTI4MDI2Njk0NCwtNjQ5Nzc1MTgsLTgzMzIxMjA0
-NSwtMTE0OTczNDg3NSwtMTkxNzk2OTQwMiwxNjA4NzYzMzY3LD
-g0MDUyODg0MCw3MjI5NDMxMywtNjk1OTQwMjE0LC0xNDY0MTc0
-NzQxLDIwNjI1NTgwMjgsMTUxOTUzNTc3NCwtMTEwNTk4NTIyOC
-wxNTMxNDE2NjcyLC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbMTgzNjA4MjIxMCwtMjA3ODI5MjA2OCwxMj
+g5MTQ3NDg5LC0yODAyNjY5NDQsLTY0OTc3NTE4LC04MzMyMTIw
+NDUsLTExNDk3MzQ4NzUsLTE5MTc5Njk0MDIsMTYwODc2MzM2Ny
+w4NDA1Mjg4NDAsNzIyOTQzMTMsLTY5NTk0MDIxNCwtMTQ2NDE3
+NDc0MSwyMDYyNTU4MDI4LDE1MTk1MzU3NzQsLTExMDU5ODUyMj
+gsMTUzMTQxNjY3MiwtMzMyNDU1MzYzXX0=
 -->
