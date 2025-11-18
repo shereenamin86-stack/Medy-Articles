@@ -115,7 +115,7 @@
 
 <p>Before discovering Mounjaro, she had tried many recognised weight loss approaches, including Slimming World, very low calorie diets (VLCDs) of around 800 calories per day and several meal replacement programmes. While some methods worked for short periods, none provided the long-term sustainability she needed.</p>
 
-<p>During the COVID period, she found motivation again and successfully lost 25 kilograms through a keto (ketogenic)lifestyle, maintaining her results for almost three years. However, an all-inclusive holiday followed by significant life stresses caused the weight to return more quickly than expected. She reflects on this time saying: <em>“I had worked so hard to lose the weight and keep it off. Watching it come back during a stressful period was incredibly discouraging.</em>”</p>
+<p>During the COVID period, she found motivation again and successfully lost 25 kilograms through a keto (ketogenic) lifestyle, maintaining her results for almost three years. However, an all-inclusive holiday followed by significant life stresses caused the weight to return more quickly than expected. She reflects on this time saying: <em>“I had worked so hard to lose the weight and keep it off. Watching it come back during a stressful period was incredibly discouraging.</em>”</p>
 
 <h3>Starting Mounjaro: Immediate and Noticeable Effects</h3>
 
@@ -156,6 +156,6 @@
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzczNzI1NTM0LDI4MDI1Njk5MCwxOTgyNj
-QyMDMxLDcxMTI1MzA2MV19
+eyJoaXN0b3J5IjpbODYxNTQ3OTAsMjgwMjU2OTkwLDE5ODI2ND
+IwMzEsNzExMjUzMDYxXX0=
 -->
