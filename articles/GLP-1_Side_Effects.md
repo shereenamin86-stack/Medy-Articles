@@ -68,7 +68,7 @@
     <li>Try ginger, peppermint or fennel tea, or sugar free mints.</li>
     <li>Sip fluids <strong>between meals</strong> instead of with them.</li>
     <li>Avoid lying down immediately after eating.</li>
-   
+    <li>Get fresh air: taking a short walk can help to relieve symptoms</li>
     <li>Speak to your healthcare provider if nausea is severe or persistent, as your dose may need adjusting or you may benefit from a trial of anti-sickness medication.</li>
   </ul>
 
@@ -85,7 +85,7 @@
     <li>Take small sips of water, electrolytes or oral rehydration solutions to prevent dehydration.</li>
     <li>When ready to eat, choose bland foods such as toast, crackers, or plain rice. Eat little and often.</li>
     <li>Avoid alcohol until symptoms have completely settled.</li>
-    <li>Seek medical advice if vomiting lasts more than 24 hours or worsens.</li>
+    <li>Seek medical advice if vomiting lasts more than 24 hours or worsens, if it is accompanie.</li>
   </ul>
 
   <h3 id="diarrhoea">3. Diarrhoea</h3>
@@ -367,7 +367,7 @@
 }
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MjU2NDI3NSwxMjg5MTQ3NDg5LC0yOD
+eyJoaXN0b3J5IjpbMjA5MzczMTQ1OCwxMjg5MTQ3NDg5LC0yOD
 AyNjY5NDQsLTY0OTc3NTE4LC04MzMyMTIwNDUsLTExNDk3MzQ4
 NzUsLTE5MTc5Njk0MDIsMTYwODc2MzM2Nyw4NDA1Mjg4NDAsNz
 IyOTQzMTMsLTY5NTk0MDIxNCwtMTQ2NDE3NDc0MSwyMDYyNTU4
