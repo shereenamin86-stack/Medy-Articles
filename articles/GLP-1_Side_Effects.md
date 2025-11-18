@@ -182,8 +182,21 @@
     <li>Speak to your clinician if fatigue is severe or does not improve.</li>
   </ul>
 
- <h3 id="Indigestion and Heartburn">9. Indigestion and Heartburn</h3>
+ <h3 id="indigestion-heartburn">9. Indigestion and heartburn</h3>
 
+<p>
+  Some people taking GLP-1 medicines experience <strong>indigestion, acid reflux, or heartburn</strong>, particularly in the early stages of treatment or when stepping up to a higher dose. Because GLP-1 medications slow stomach emptying, food can remain in the stomach for longer, increasing pressure and acidity. This may lead to discomfort in the chest or upper abdomen.
+</p>
+
+<p><strong>How to manage indigestion and heartburn</strong></p>
+<ul>
+  <li>Eat <strong>smaller meals</strong> and avoid lying down for at least two hours after eating.</li>
+  <li>Reduce trigger foods such as tomatoes, citrus, chocolate, coffee, spicy meals, and high fat dishes.</li>
+  <li>Avoid eating late at night.</li>
+  <li>Consider over the counter antacids or alginate-based products if they are suitable for you.</li>
+  <li>Stay hydrated and avoid fizzy or carbonated drinks.</li>
+  <li>If symptoms persist, worsen, or interfere with sleep, speak to a healthcare professional to review your treatment.</li>
+</ul>
 
   <h3 id="serious-side-effects">10. Less common but important side effects</h3>
 
@@ -371,10 +384,10 @@
 }
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MDE5MDMyMywxMjg5MTQ3NDg5LC0yOD
-AyNjY5NDQsLTY0OTc3NTE4LC04MzMyMTIwNDUsLTExNDk3MzQ4
-NzUsLTE5MTc5Njk0MDIsMTYwODc2MzM2Nyw4NDA1Mjg4NDAsNz
-IyOTQzMTMsLTY5NTk0MDIxNCwtMTQ2NDE3NDc0MSwyMDYyNTU4
-MDI4LDE1MTk1MzU3NzQsLTExMDU5ODUyMjgsMTUzMTQxNjY3Mi
-wtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbNDkyMjMxNDg5LDEyODkxNDc0ODksLTI4MD
+I2Njk0NCwtNjQ5Nzc1MTgsLTgzMzIxMjA0NSwtMTE0OTczNDg3
+NSwtMTkxNzk2OTQwMiwxNjA4NzYzMzY3LDg0MDUyODg0MCw3Mj
+I5NDMxMywtNjk1OTQwMjE0LC0xNDY0MTc0NzQxLDIwNjI1NTgw
+MjgsMTUxOTUzNTc3NCwtMTEwNTk4NTIyOCwxNTMxNDE2NjcyLC
+0zMzI0NTUzNjNdfQ==
 -->
