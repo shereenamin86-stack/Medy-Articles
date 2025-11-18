@@ -43,10 +43,7 @@
   <section>
     <h2>A Pharmacist Daughter and a Shared Decision to Start Mounjaro</h2>
     <p>
-      Wendy’s daughter is a pharmacist who works in the weight loss field. She had been learning about newer treatments, such as Mounjaro, that can support appetite control and metabolic health in appropriate patients.
-    </p>
-    <p>
-      After reviewing the risks and benefits together, they both realised that they were suitable candidates to start a
+      Wendy’s daughter is a pharmacist who works in the weight loss field and, after reviewing the risks and benefits together, they both realised that they were suitable candidates to start a
       <strong>Mounjaro weight loss journey</strong> under medical supervision.
     </p>
     <p>
@@ -155,5 +152,5 @@
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUwNzg5ODgyXX0=
+eyJoaXN0b3J5IjpbLTExNTQ4NTYyNjJdfQ==
 -->
