@@ -116,7 +116,7 @@
     <li>Increase fibre gradually with wholegrains, fruit (prunes and figs are a great choice), and vegetables.</li>
     <li>Stay well hydrated throughout the day.</li>
     <li>Include light exercise, such as walking, to support digestion.</li>
-    <li>Use fibre supplements or mild laxatives if advised by your clinician.</li>
+    <li>Use fibre supplements or mild laxatives if needed - your local community pharmacist can advise you on the most sui.</li>
     <li>Seek help if constipation is painful or continues for more than a week, if you are straining when passing a bowel motion or if you notice any blood in your stools.</li>
   </ul>
 
@@ -193,8 +193,8 @@
   <li>Eat <strong>smaller meals</strong> and avoid lying down for at least two hours after eating.</li>
   <li>Reduce trigger foods such as tomatoes, citrus, chocolate, coffee, spicy meals, and high fat dishes.</li>
   <li>Avoid eating late at night.</li>
-  <li>Consider over the counter antacids or alginate-based products if they are suitable for you.</li>
-  <li>Stay hydrated and avoid fizzy or carbonated drinks.</li>
+  <li>Consider over-the-counter antacids or alginate-based products if they are suitable for you.</li>
+  <li>Stay hydrated and avoid carbonated drinks.</li>
   <li>If symptoms persist, worsen, or interfere with sleep, speak to a healthcare professional to review your treatment.</li>
 </ul>
 
@@ -384,10 +384,10 @@
 }
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkyMjMxNDg5LDEyODkxNDc0ODksLTI4MD
-I2Njk0NCwtNjQ5Nzc1MTgsLTgzMzIxMjA0NSwtMTE0OTczNDg3
-NSwtMTkxNzk2OTQwMiwxNjA4NzYzMzY3LDg0MDUyODg0MCw3Mj
-I5NDMxMywtNjk1OTQwMjE0LC0xNDY0MTc0NzQxLDIwNjI1NTgw
-MjgsMTUxOTUzNTc3NCwtMTEwNTk4NTIyOCwxNTMxNDE2NjcyLC
-0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbMTE0MTY3MDczNiwxMjg5MTQ3NDg5LC0yOD
+AyNjY5NDQsLTY0OTc3NTE4LC04MzMyMTIwNDUsLTExNDk3MzQ4
+NzUsLTE5MTc5Njk0MDIsMTYwODc2MzM2Nyw4NDA1Mjg4NDAsNz
+IyOTQzMTMsLTY5NTk0MDIxNCwtMTQ2NDE3NDc0MSwyMDYyNTU4
+MDI4LDE1MTk1MzU3NzQsLTExMDU5ODUyMjgsMTUzMTQxNjY3Mi
+wtMzMyNDU1MzYzXX0=
 -->
