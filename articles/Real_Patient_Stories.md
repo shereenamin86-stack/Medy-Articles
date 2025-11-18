@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>Mounjaro Patient Journeys: Real Stories of Sustainable Weight Loss and Clinical Support</title>
+  <title>GLP-1 Patient Journeys: Real Stories of Sustainable Weight Loss and Clinical Support</title>
   <meta name="description" content="Two detailed real-life patient stories showcasing Mounjaro weight loss journeys. Includes Wendy's transformation at 65 and a Pharmacist Prescriber’s own experience with GLP-1 treatment.">
   <meta name="keywords" content="Mounjaro weight loss, tirzepatide, Wendy patient story, weight loss over 60, Pharmacist Prescriber journey, weight loss injections, GLP-1 treatment story">
 
@@ -156,6 +156,6 @@
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgwMjU2OTkwLDE5ODI2NDIwMzEsNzExMj
-UzMDYxXX0=
+eyJoaXN0b3J5IjpbMTkwMjI5ODUyMCwyODAyNTY5OTAsMTk4Mj
+Y0MjAzMSw3MTEyNTMwNjFdfQ==
 -->
