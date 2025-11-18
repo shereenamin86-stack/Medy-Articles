@@ -233,7 +233,7 @@
   <ul>
     <li>Avoid very high protein meals that may increase sulphur production.</li>
     <li>Eat smaller, more frequent meals.</li>
-    <li>Stay hydrated and consider probiotics if recommended by your clinician.</li>
+    <li>Stay hydrated and consider taking probiotics.</li>
     <li>Minimise alcohol and carbonated drink consumption.</li>
     <li>Seek medical advice if symptoms are severe, persistent, or associated with significant abdominal pain.</li>
   </ul>
@@ -263,7 +263,7 @@
   <ul>
     <li>Track your menstrual cycles and note any changes in timing or flow.</li>
     <li>Maintain good nutrition and hydration, especially during dose changes.</li>
-    <li>Speak with your healthcare provider if bleeding is heavy, prolonged, or accompanied by pain or other symptoms.</li>
+    <li>Speak with a healthcare professional if bleeding is heavy, prolonged, or accompanied by pain or other symptoms.</li>
   </ul>
 
   <p>
@@ -296,7 +296,7 @@
 
   <p>
   The Medy Clinical Team can adjust your dosing schedule, recommend supportive treatments, 
-    or advise that you check for other causes of your symptoms with your GP.
+    or advise that you check for other causes of your symptoms.
   </p>
 
   <h2 id="faq-glp1-side-effects">GLP-1 side effects FAQs</h2>
@@ -386,10 +386,10 @@
 }
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNzI2MjE4OCwtMjA3ODI5MjA2OCwxMj
-g5MTQ3NDg5LC0yODAyNjY5NDQsLTY0OTc3NTE4LC04MzMyMTIw
-NDUsLTExNDk3MzQ4NzUsLTE5MTc5Njk0MDIsMTYwODc2MzM2Ny
-w4NDA1Mjg4NDAsNzIyOTQzMTMsLTY5NTk0MDIxNCwtMTQ2NDE3
-NDc0MSwyMDYyNTU4MDI4LDE1MTk1MzU3NzQsLTExMDU5ODUyMj
-gsMTUzMTQxNjY3MiwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTE1NTI1MzE5MzYsLTIwNzgyOTIwNjgsMT
+I4OTE0NzQ4OSwtMjgwMjY2OTQ0LC02NDk3NzUxOCwtODMzMjEy
+MDQ1LC0xMTQ5NzM0ODc1LC0xOTE3OTY5NDAyLDE2MDg3NjMzNj
+csODQwNTI4ODQwLDcyMjk0MzEzLC02OTU5NDAyMTQsLTE0NjQx
+NzQ3NDEsMjA2MjU1ODAyOCwxNTE5NTM1Nzc0LC0xMTA1OTg1Mj
+I4LDE1MzE0MTY2NzIsLTMzMjQ1NTM2M119
 -->
