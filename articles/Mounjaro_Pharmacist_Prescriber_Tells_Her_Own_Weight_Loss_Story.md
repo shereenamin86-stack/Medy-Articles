@@ -17,7 +17,7 @@
 
 <p>When stepping up to the 5 milligram dose, the journey became more challenging. She experienced more intense nausea, complete appetite suppression, fatigue and sulphur burps. These symptoms were uncomfortable at first but gradually eased as her body adapted. She chose not to increase the dose further as she was progressing well and felt stable. 
 
-She also experienced some hair shedding, but she recalled that this was similarfrom her previous keto experience and attributed to rapid weight loss rather than the medication.</p>
+She also experienced some hair shedding, but recalled that this resembled her previous keto experience and attributed the symptom to rapid weight loss rather than the medication.</p>
 
 <h2>A Life Reclaimed: 23 Kilograms Down and a Return to Normal BMI</h2>
 
@@ -28,8 +28,6 @@ She also experienced some hair shedding, but she recalled that this was similarf
 <p>Experiencing both sides of the journey has strengthened Shereen’s belief that GLP-1 treatments work best when patients receive proper, personalised support. Many online providers rely on quick, asynchronous consultations that offer minimal follow-up, limited guidance and no real relationship with the prescriber. A more supportive and human approach leads to better outcomes and greater confidence.</p>
 
 <p>Video consultations, ongoing check-ins and clear advice on side effects, dosing and building long-term healthy habits can make a meaningful difference. This is exactly what <strong>Medy</strong> offers. Patients receive tailored guidance, compassionate support and market-leading value. Medy combines clinical expertise with genuine care, helping people achieve results and maintain them sustainably.</p>
-
-<p>If you would like this converted into a more SEO-heavy landing page format, a shorter feature section, or Markdown instead of HTML, just let me know.</p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NTIyMzU1OV19
+eyJoaXN0b3J5IjpbLTQzMDA0ODM5Nl19
 -->
