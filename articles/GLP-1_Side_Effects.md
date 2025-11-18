@@ -5,7 +5,7 @@
   <meta name="description" content="Learn about common GLP-1 side effects such as nausea, constipation, diarrhoea, sulphur burps and hair thinning, plus practical tips to manage them safely.">
   -->
 
-  <h1>Common GLP-1 Side Effects and How to Manage Them</h1>
+  <h1> GLP-1 Weight Loss TreatmenSide Effects and How to Manage Them</h1>
 
   <p>
     GLP-1 medicines such as <strong>semaglutide</strong> (Wegovy and Ozempic), <strong>tirzepatide</strong> (Mounjaro), 
@@ -371,10 +371,10 @@
 }
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDY1NDM0MTEsLTI4MDI2Njk0NCwtNj
-Q5Nzc1MTgsLTgzMzIxMjA0NSwtMTE0OTczNDg3NSwtMTkxNzk2
-OTQwMiwxNjA4NzYzMzY3LDg0MDUyODg0MCw3MjI5NDMxMywtNj
-k1OTQwMjE0LC0xNDY0MTc0NzQxLDIwNjI1NTgwMjgsMTUxOTUz
-NTc3NCwtMTEwNTk4NTIyOCwxNTMxNDE2NjcyLC0zMzI0NTUzNj
-NdfQ==
+eyJoaXN0b3J5IjpbLTQ3Mzc5MjYzMSwtMjgwMjY2OTQ0LC02ND
+k3NzUxOCwtODMzMjEyMDQ1LC0xMTQ5NzM0ODc1LC0xOTE3OTY5
+NDAyLDE2MDg3NjMzNjcsODQwNTI4ODQwLDcyMjk0MzEzLC02OT
+U5NDAyMTQsLTE0NjQxNzQ3NDEsMjA2MjU1ODAyOCwxNTE5NTM1
+Nzc0LC0xMTA1OTg1MjI4LDE1MzE0MTY2NzIsLTMzMjQ1NTM2M1
+19
 -->
