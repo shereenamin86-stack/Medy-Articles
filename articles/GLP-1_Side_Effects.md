@@ -219,13 +219,13 @@
   <h2 id="patient-reported-side-effects">Patient reported side effects</h2>
 
   <p>
-    Some patients report additional symptoms with GLP-1 therapy that are less well studied but still important to recognise and discuss.
+    Some patients report additional symptoms with GLP-1 therapy that are less well-studied but still important to recognise and discuss.
   </p>
 
   <h3 id="sulphur-burps">Sulphur burps</h3>
 
   <p>
-    A number of people describe unusual or sulphur smelling burps after starting a GLP-1 medicine. 
+    A number of people describe unusual or sulphur-smelling burps after starting a GLP-1 medicine. 
     This may be related to changes in digestion and gut bacteria as the stomach empties more slowly.
   </p>
 
@@ -234,6 +234,7 @@
     <li>Avoid very high protein meals that may increase sulphur production.</li>
     <li>Eat smaller, more frequent meals.</li>
     <li>Stay hydrated and consider probiotics if recommended by your clinician.</li>
+    <li>Minimise alcohol and carbonated drink consumption.</li>
     <li>Seek medical advice if symptoms are severe, persistent, or associated with significant abdominal pain.</li>
   </ul>
 
@@ -386,10 +387,10 @@
 }
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUzNzI4MDY1LDEyODkxNDc0ODksLTI4MD
-I2Njk0NCwtNjQ5Nzc1MTgsLTgzMzIxMjA0NSwtMTE0OTczNDg3
-NSwtMTkxNzk2OTQwMiwxNjA4NzYzMzY3LDg0MDUyODg0MCw3Mj
-I5NDMxMywtNjk1OTQwMjE0LC0xNDY0MTc0NzQxLDIwNjI1NTgw
-MjgsMTUxOTUzNTc3NCwtMTEwNTk4NTIyOCwxNTMxNDE2NjcyLC
-0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbLTIwNzgyOTIwNjgsMTI4OTE0NzQ4OSwtMj
+gwMjY2OTQ0LC02NDk3NzUxOCwtODMzMjEyMDQ1LC0xMTQ5NzM0
+ODc1LC0xOTE3OTY5NDAyLDE2MDg3NjMzNjcsODQwNTI4ODQwLD
+cyMjk0MzEzLC02OTU5NDAyMTQsLTE0NjQxNzQ3NDEsMjA2MjU1
+ODAyOCwxNTE5NTM1Nzc0LC0xMTA1OTg1MjI4LDE1MzE0MTY2Nz
+IsLTMzMjQ1NTM2M119
 -->
