@@ -1,7 +1,11 @@
 
-A Pharmacist’s Guide to Combining Lifestyle Changes with GLP-1 Therapy
 
-Introduction  
+# A Pharmacist’s Guide to Combining Lifestyle Changes with GLP-1 Therapy
+
+## Introduction
+
+Heading
+
 GLP-1 treatments have become an important option for people looking to improve their weight, health and confidence. These medications help reduce appetite, improve blood sugar control and support steady weight loss. Alongside these benefits, lifestyle habits still play a vital role. This guide explains how simple, sustainable changes can help you get the most from your treatment. It is written from the perspective of a pharmacist who has supported many patients on their GLP-1 journey.
 
 Why Lifestyle Still Matters on GLP-1 Therapy  
@@ -55,5 +59,5 @@ If side effects do not settle, or if your weight loss is happening faster than e
 Conclusion  
 GLP-1 therapy can be a powerful tool, but the habits you build alongside it create long lasting change. Simple, achievable steps in nutrition, activity and daily routines can help you feel your best. If you are ready to begin or want personalised support, reach out to your treatment provider for guidance. A tailored plan can help you stay on track and achieve steady, sustainable progress.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzUxNDY2NDMsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTM1NzY2OTc2OCw3MzA5OTgxMTZdfQ==
 -->
