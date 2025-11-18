@@ -364,6 +364,22 @@
     from your GLP-1 therapy.
   </p>
 
+<div style="text-align: center; margin-top: 2rem; margin-bottom: 2rem;">
+  <a href="https://medy.uk" 
+     target="_blank" 
+     rel="noopener" 
+     style="display: inline-block; 
+            padding: 12px 24px; 
+            background-color: #7b0051; 
+            color: white; 
+            text-decoration: none; 
+            border-radius: 6px; 
+            font-size: 1.1rem; 
+            font-weight: 600;">
+    Get Started
+  </a>
+</div>
+
 </article>
 
 <!-- FAQ schema markup for SEO (place in <head> of your page if using a CMS) -->
@@ -408,10 +424,10 @@
 }
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY4MTkyODMsLTg4MDU5Mjg4LC0yMDc4Mj
-kyMDY4LDEyODkxNDc0ODksLTI4MDI2Njk0NCwtNjQ5Nzc1MTgs
-LTgzMzIxMjA0NSwtMTE0OTczNDg3NSwtMTkxNzk2OTQwMiwxNj
-A4NzYzMzY3LDg0MDUyODg0MCw3MjI5NDMxMywtNjk1OTQwMjE0
-LC0xNDY0MTc0NzQxLDIwNjI1NTgwMjgsMTUxOTUzNTc3NCwtMT
-EwNTk4NTIyOCwxNTMxNDE2NjcyLC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbNTQ0ODEyNTU1LC04ODA1OTI4OCwtMjA3OD
+I5MjA2OCwxMjg5MTQ3NDg5LC0yODAyNjY5NDQsLTY0OTc3NTE4
+LC04MzMyMTIwNDUsLTExNDk3MzQ4NzUsLTE5MTc5Njk0MDIsMT
+YwODc2MzM2Nyw4NDA1Mjg4NDAsNzIyOTQzMTMsLTY5NTk0MDIx
+NCwtMTQ2NDE3NDc0MSwyMDYyNTU4MDI4LDE1MTk1MzU3NzQsLT
+ExMDU5ODUyMjgsMTUzMTQxNjY3MiwtMzMyNDU1MzYzXX0=
 -->
