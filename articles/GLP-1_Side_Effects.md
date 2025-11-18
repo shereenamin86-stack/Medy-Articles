@@ -182,7 +182,10 @@
     <li>Speak to your clinician if fatigue is severe or does not improve.</li>
   </ul>
 
-  <h3 id="serious-side-effects">9. Less common but important side effects</h3>
+ <h3 id="Indigestion and Heartburn">9. Indigestion and Heartburn</h3>
+
+
+  <h3 id="serious-side-effects">10. Less common but important side effects</h3>
 
   <p>
     Although rare, some GLP-1 side effects need urgent attention.
@@ -368,7 +371,7 @@
 }
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjc3NDU1NSwxMjg5MTQ3NDg5LC0yOD
+eyJoaXN0b3J5IjpbLTI5MDE5MDMyMywxMjg5MTQ3NDg5LC0yOD
 AyNjY5NDQsLTY0OTc3NTE4LC04MzMyMTIwNDUsLTExNDk3MzQ4
 NzUsLTE5MTc5Njk0MDIsMTYwODc2MzM2Nyw4NDA1Mjg4NDAsNz
 IyOTQzMTMsLTY5NTk0MDIxNCwtMTQ2NDE3NDc0MSwyMDYyNTU4
