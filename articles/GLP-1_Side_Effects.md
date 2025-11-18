@@ -116,7 +116,7 @@
     <li>Increase fibre gradually with wholegrains, fruit (prunes and figs are a great choice), and vegetables.</li>
     <li>Stay well hydrated throughout the day.</li>
     <li>Include light exercise, such as walking, to support digestion.</li>
-    <li>Use fibre supplements or mild laxatives if needed - your local community pharmacist can advise you on the most sui.</li>
+    <li>Use fibre supplements or mild laxatives if needed - your local community pharmacist can advise you on the most suitable option.</li>
     <li>Seek help if constipation is painful or continues for more than a week, if you are straining when passing a bowel motion or if you notice any blood in your stools.</li>
   </ul>
 
@@ -130,10 +130,11 @@
   <p><strong>How to manage bloating</strong></p>
   <ul>
     <li>Eat slowly and chew your food thoroughly.</li>
-    <li>Avoid fizzy drinks, chewing gum, and drinking through a straw.</li>
+    <li>Avoid carbonated drinks, chewing gum, and drinking through a straw.</li>
     <li>Choose smaller portions at mealtimes.</li>
     <li>Try peppermint tea or capsules to relieve bloating.</li>
     <li>Limit high fat foods, which can take longer to digest.</li>
+    <li>Speak to your local pharmacist about a trial of anti-gas medication, such as simethicone-based preparations</li>
   </ul>
 
   <h3 id="injection-site-reactions">6. Injection site reactions</h3>
@@ -384,10 +385,10 @@
 }
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MTY3MDczNiwxMjg5MTQ3NDg5LC0yOD
-AyNjY5NDQsLTY0OTc3NTE4LC04MzMyMTIwNDUsLTExNDk3MzQ4
-NzUsLTE5MTc5Njk0MDIsMTYwODc2MzM2Nyw4NDA1Mjg4NDAsNz
-IyOTQzMTMsLTY5NTk0MDIxNCwtMTQ2NDE3NDc0MSwyMDYyNTU4
-MDI4LDE1MTk1MzU3NzQsLTExMDU5ODUyMjgsMTUzMTQxNjY3Mi
-wtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTIwNjIwNDcwNjMsMTI4OTE0NzQ4OSwtMj
+gwMjY2OTQ0LC02NDk3NzUxOCwtODMzMjEyMDQ1LC0xMTQ5NzM0
+ODc1LC0xOTE3OTY5NDAyLDE2MDg3NjMzNjcsODQwNTI4ODQwLD
+cyMjk0MzEzLC02OTU5NDAyMTQsLTE0NjQxNzQ3NDEsMjA2MjU1
+ODAyOCwxNTE5NTM1Nzc0LC0xMTA1OTg1MjI4LDE1MzE0MTY2Nz
+IsLTMzMjQ1NTM2M119
 -->
