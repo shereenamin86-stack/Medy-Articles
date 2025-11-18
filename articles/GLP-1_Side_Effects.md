@@ -149,7 +149,7 @@
     <li>Allow the pen to reach room temperature before injecting.</li>
     <li>Follow proper injection technique as advised by your healthcare team.</li>
     <li>Try taking a non-drowsy antihistamine, or applying antihistamine cream to the area to reduce itching.</li>
-    <li>Contact your clinician if reactions are painful, spreading, or worsening.</li>
+    <li>Contact a healthcare professional if reactions are painful, spreading, or worsening.</li>
   </ul>
 
   <h3 id="headache">7. Headache</h3>
@@ -161,7 +161,7 @@
   <p><strong>How to manage headaches</strong></p>
   <ul>
     <li>Drink water regularly throughout the day.</li>
-    <li>Eat balanced meals even if your appetite is lower.</li>
+    <li>Eat balanced meals, even if your appetite is lower.</li>
     <li>Avoid skipping meals.</li>
     <li>Use simple pain relief, such as paracetamol or ibuprofen, if suitable for you.</li>
   <li>Ensure you are getting adequate sleep.</li>  
@@ -181,7 +181,7 @@
     <li>Stay hydrated and pace your day if needed.</li>
     <li>Prioritise good quality sleep.</li>
     <li>Consider gentle exercise, such as walking, to support energy levels.</li>
-    <li>Speak to your clinician if fatigue is severe or does not improve.</li>
+    <li>Speak to a healthcare professional if fatigue is severe or does not improve.</li>
   </ul>
 
  <h3 id="indigestion-heartburn">9. Indigestion and heartburn</h3>
@@ -386,7 +386,7 @@
 }
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNDc1NTYwMiwtMjA3ODI5MjA2OCwxMj
+eyJoaXN0b3J5IjpbLTczNzI2MjE4OCwtMjA3ODI5MjA2OCwxMj
 g5MTQ3NDg5LC0yODAyNjY5NDQsLTY0OTc3NTE4LC04MzMyMTIw
 NDUsLTExNDk3MzQ4NzUsLTE5MTc5Njk0MDIsMTYwODc2MzM2Ny
 w4NDA1Mjg4NDAsNzIyOTQzMTMsLTY5NTk0MDIxNCwtMTQ2NDE3
