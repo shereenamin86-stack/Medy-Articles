@@ -267,18 +267,21 @@
   </ul>
 
   <p>
-    These patient reported side effects are generally less common, but raising them with the Medy Clinical Team helps ensure your treatment remains safe and tailored to you.
+    These patient reported side effects are generally less common, but raising them with the <a href="https://medy.uk" target="_blank" rel="noopener"><strong>Medy Clinical Team</strong></a>
+ helps ensure your treatment remains safe and tailored to you.
   </p>
 
   <h2 id="reduce-side-effects">How to reduce GLP-1 side effects before they start</h2>
 
   <ul>
-    <li>Follow a gradual <strong>dose escalation</strong> plan as advised by Medy Clinical Team.</li>
+    <li>Follow a gradual <strong>dose escalation</strong> plan as advised by the <a href="https://medy.uk" target="_blank" rel="noopener"><strong>Medy Clinical Team</strong></a>
+.</li>
     <li>Eat mindfully and avoid large, heavy meals. Do not undereat.</li>
     <li>Stay well hydrated every day.</li>
     <li>Limit alcohol, especially around dose increases.</li>
     <li>Track any side effects so they can be reviewed and managed promptly.</li>
-    <li>Attend regular follow ups with the Medy Clinical Team to review progress.</li>
+    <li>Attend regular follow ups with the <a href="https://medy.uk" target="_blank" rel="noopener"><strong>Medy Clinical Team</strong></a>
+ to review progress.</li>
   </ul>
 
   <h2 id="when-to-speak">When to speak to a healthcare professional</h2>
@@ -295,7 +298,8 @@
   </ul>
 
   <p>
-  The Medy Clinical Team can adjust your dosing schedule, recommend supportive treatments, 
+  The <a href="https://medy.uk" target="_blank" rel="noopener"><strong>Medy Clinical Team</strong></a>
+ can adjust your dosing schedule, recommend supportive treatments, 
     or advise that you are checked for other causes of your symptoms.
   </p>
 
@@ -304,7 +308,8 @@
   <h3>How long do GLP-1 side effects last?</h3>
   <p>
     Most common side effects such as nausea, bloating, and mild diarrhoea tend to improve within a few days to weeks as your body adapts. 
-    If symptoms persist or worsen, speak to the Medy Clinical Team for advice. You can revisit the section 
+    If symptoms persist or worsen, speak to the <a href="https://medy.uk" target="_blank" rel="noopener"><strong>Medy Clinical Team</strong></a>
+ for advice. You can revisit the section 
     <a href="#common-glp1-side-effects">Common GLP-1 side effects</a> for more detail.
   </p>
 
@@ -346,7 +351,8 @@
 <p>
   Reports can be submitted online through the 
   <a href="https://yellowcard.mhra.gov.uk/" target="_blank" rel="noopener">Yellow Card website</a>, 
-  through the mobile app, or you can ask the Medy Clinical Team to complete one for you. 
+  through the mobile app, or you can ask the <a href="https://medy.uk" target="_blank" rel="noopener"><strong>Medy Clinical Team</strong></a>
+ to complete one for you. 
   Sharing your experience helps improve the safety of GLP-1 treatments and supports better care for everyone who uses these medicines.
 </p>
 
@@ -360,7 +366,8 @@
 
   <p>
     Understanding why side effects occur and how to respond helps you stay comfortable and continue treatment long enough to see real benefits. 
-    For personalised support, dosing guidance, or help managing side effects, speak to the Medy Clinical Team, as we can provide tailored advice to keep you on track and help you achieve the best possible results 
+    For personalised support, dosing guidance, or help managing side effects, speak to the <a href="https://medy.uk" target="_blank" rel="noopener"><strong>Medy Clinical Team</strong></a>
+, as we can provide tailored advice to keep you on track and help you achieve the best possible results 
     from your GLP-1 therapy.
   </p>
 
@@ -424,7 +431,7 @@
 }
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ0ODEyNTU1LC04ODA1OTI4OCwtMjA3OD
+eyJoaXN0b3J5IjpbMzQwODI1MDU5LC04ODA1OTI4OCwtMjA3OD
 I5MjA2OCwxMjg5MTQ3NDg5LC0yODAyNjY5NDQsLTY0OTc3NTE4
 LC04MzMyMTIwNDUsLTExNDk3MzQ4NzUsLTE5MTc5Njk0MDIsMT
 YwODc2MzM2Nyw4NDA1Mjg4NDAsNzIyOTQzMTMsLTY5NTk0MDIx
