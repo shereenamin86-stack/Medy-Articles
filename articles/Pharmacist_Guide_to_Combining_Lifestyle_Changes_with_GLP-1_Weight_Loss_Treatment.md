@@ -57,16 +57,19 @@ Weight is only one part of the picture. Many patients notice improvements in the
 **Common Challenges and How to Overcome Them**  
 Reduced appetite can make it difficult to meet your nutritional needs. Focus on prioritising protein and choosing nourishing foods in small amounts. Gastrointestinal side effects often improve over time, but adjusting your eating pace and meal size can help. Social events, holidays and special occasions may feel challenging. Planning ahead and setting realistic expectations can reduce pressure. If you experience emotional setbacks or frustration, remember that progress is rarely linear.
 
-*
-
-## *When to Seek Additional Support**
+## When to Seek Additional Support
 
  
 If side effects do not settle, or if your weight loss is happening faster than expected, contact your healthcare provider. It is also important to reach out if you feel low in mood, struggle with motivation or feel unsure about your next steps. Regular reviews with a pharmacist prescriber or clinical team ensure your treatment stays safe and effective.
 
-**Conclusion**  
+## Conclusion
+
 GLP-1 therapy can be a powerful tool, but the habits you build alongside it create long lasting change. Simple, achievable steps in nutrition, activity and daily routines can help you feel your best. If you are ready to begin or want personalised support, reach out to your treatment provider for guidance. A tailored plan can help you stay on track and achieve steady, sustainable progress.
+
+## References
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMjA1MzQ4NCwtMTkyNzczNTM0OCwtMT
+eyJoaXN0b3J5IjpbMTIyODE0NTc2MCwtMTkyNzczNTM0OCwtMT
 gzNDMyNDQ2MCwxMjI0OTIxODQwLDczMDk5ODExNl19
 -->
