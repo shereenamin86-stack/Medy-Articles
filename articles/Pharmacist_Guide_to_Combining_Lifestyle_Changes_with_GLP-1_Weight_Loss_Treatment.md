@@ -13,11 +13,13 @@ GLP-1 medications work by slowing how fast your stomach empties, reducing hunger
 ## Nutrition Strategies That Support GLP-1 Treatment
 
 **Prioritise protein**
-Protein helps you feel fuller for longer and protects your muscle mass as you lose weight. A healthy adult generally needs around **0.75g of protein per kilogram of body weight each day**. This means someone weighing 60kg would aim for roughly 45g of protein, while a 75kg adult would need about 55g. Individual requirements may be higher for people who are older, recovering from surgery, or more physically active.
+Protein helps you feel fuller for longer and protects your muscle mass as you lose weight. Eating adequate protein may also help to minimise hair shedding whilst losing weight.
+
+Foods that are high in protein often contain other important nutrients too. For example, meat is a good source of iron and dairy foods provide calcium. Eating enough protein can therefore support your overall health in many ways.
+
+A healthy adult generally needs around **0.75g of protein per kilogram of body weight each day**. This means someone weighing 60kg would aim for roughly 45g of protein, while a 75kg adult would need about 55g. Individual requirements may be higher for people who are older, recovering from surgery, or more physically active.
 
 Including a good source of protein at each meal makes a big difference. Options include chicken, fish, eggs, yoghurt, tofu, beans and lentils. Even on days when your appetite is low, choosing small, protein-rich snacks helps support your progress.
-
-Eating adequate protein may also help to minimise hair shedding whilst losing weight.
 
 **Build balanced, satisfying meals**  
 A balanced plate includes a portion of protein, plenty of vegetables and a source of whole grains or fibre rich carbohydrates. This structure helps keep energy stable and prevents overeating later in the day. Some people on GLP-1s feel full very quickly. Smaller meals eaten more slowly can help when you struggle to finish a normal portion.
@@ -70,6 +72,6 @@ GLP-1 therapy can be a powerful tool, but the habits you build alongside it crea
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyODE0NTc2MCwtMTkyNzczNTM0OCwtMT
-gzNDMyNDQ2MCwxMjI0OTIxODQwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNDEzNjE5Mzg2LC0xOTI3NzM1MzQ4LC0xOD
+M0MzI0NDYwLDEyMjQ5MjE4NDAsNzMwOTk4MTE2XX0=
 -->
