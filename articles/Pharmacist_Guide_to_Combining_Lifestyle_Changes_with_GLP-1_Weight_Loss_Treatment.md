@@ -70,8 +70,10 @@ GLP-1 therapy can be a powerful tool, but the habits you build alongside it crea
 
 ## References
 
+ 1. https://www.nutrition.org.uk/nutritional-information/protein/#:~:text=How%20much%20protein%20should%20I,our%20body%20needs%20more%20protein.
+ 2. https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/the-eatwell-guide/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEzNjE5Mzg2LC0xOTI3NzM1MzQ4LC0xOD
-M0MzI0NDYwLDEyMjQ5MjE4NDAsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTQ3MjA4OTI2MywtMTkyNzczNTM0OCwtMT
+gzNDMyNDQ2MCwxMjI0OTIxODQwLDczMDk5ODExNl19
 -->
