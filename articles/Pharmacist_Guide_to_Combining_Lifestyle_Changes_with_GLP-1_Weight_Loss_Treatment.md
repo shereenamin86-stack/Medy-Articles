@@ -13,7 +13,9 @@ GLP-1 medications work by slowing how fast your stomach empties, reducing hunger
 ## Nutrition Strategies That Support GLP-1 Treatment
 
 **Prioritise protein**
-Protein helps you feel fuller for longer and protects your muscle mass as you lose weight. Including a good source of protein at each meal makes a big difference. Options include chicken, fish, eggs, yoghurt, tofu, beans and lentils. Even on days when your appetite is low, choosing small, protein-rich snacks helps support your progress.
+Protein helps you feel fuller for longer and protects your muscle mass as you lose weight. A healthy adult generally needs around **0.75g of protein per kilogram of body weight each day**. This means someone weighing 60kg would aim for roughly 45g of protein, while a 75kg adult would need about 55g. Individual requirements may be higher for people who are older, recovering from surgery, or more physically active.
+
+Including a good source of protein at each meal makes a big difference. Options include chicken, fish, eggs, yoghurt, tofu, beans and lentils. Even on days when your appetite is low, choosing small, protein-rich snacks helps support your progress.
 
 Eating adequate protein may also help to minimise hair shedding whilst losing weight.
 
@@ -55,12 +57,16 @@ Weight is only one part of the picture. Many patients notice improvements in the
 **Common Challenges and How to Overcome Them**  
 Reduced appetite can make it difficult to meet your nutritional needs. Focus on prioritising protein and choosing nourishing foods in small amounts. Gastrointestinal side effects often improve over time, but adjusting your eating pace and meal size can help. Social events, holidays and special occasions may feel challenging. Planning ahead and setting realistic expectations can reduce pressure. If you experience emotional setbacks or frustration, remember that progress is rarely linear.
 
-**When to Seek Additional Support**  
+*
+
+## *When to Seek Additional Support**
+
+ 
 If side effects do not settle, or if your weight loss is happening faster than expected, contact your healthcare provider. It is also important to reach out if you feel low in mood, struggle with motivation or feel unsure about your next steps. Regular reviews with a pharmacist prescriber or clinical team ensure your treatment stays safe and effective.
 
 **Conclusion**  
 GLP-1 therapy can be a powerful tool, but the habits you build alongside it create long lasting change. Simple, achievable steps in nutrition, activity and daily routines can help you feel your best. If you are ready to begin or want personalised support, reach out to your treatment provider for guidance. A tailored plan can help you stay on track and achieve steady, sustainable progress.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjc3MzUzNDgsLTE4MzQzMjQ0NjAsMT
-IyNDkyMTg0MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTkxMjA1MzQ4NCwtMTkyNzczNTM0OCwtMT
+gzNDMyNDQ2MCwxMjI0OTIxODQwLDczMDk5ODExNl19
 -->
