@@ -8,12 +8,12 @@ GLP-1 treatments have become an important option for people looking to improve t
 This guide explains how simple, sustainable changes can help you get the most from your treatment. It is written from the perspective of a pharmacist who has supported many patients on their GLP-1 journey.
 
 ## Why Lifestyle Still Matters on GLP-1 Therapy
-GLP-1 medications work by reducing hunger signals and helping your body regulate blood sugar more effectively. While they make weight loss more achievable, the habits you build every day will strengthen your results. Balanced eating, regular movement and healthy routines support your long term success and help protect your muscle mass while you lose weight. Many people are surprised to learn that medication alone cannot replace the benefits of a healthy lifestyle. GLP-1s make it easier to follow through with those healthy choices.
+GLP-1 medications work by slowing how fast your stomach empties, reducing hunger signals and helping you feel full for longer. While they make weight loss more achievable, the habits you build every day will strengthen your results. Balanced eating, regular movement and healthy routines support your long-term success and help protect your muscle mass while you lose weight. Many people are surprised to learn that medication alone cannot replace the benefits of a healthy lifestyle. GLP-1s make it easier to follow through with those healthy choices.
 
 ## Nutrition Strategies That Support GLP-1 Treatment
 
 **Prioritise protein**
-Protein helps you feel fuller for longer and protects your muscle as you lose weight. Including a good source of protein at each meal makes a big difference. Options include chicken, fish, eggs, yoghurt, tofu, beans and lentils. Even on days when your appetite is low, choosing small protein rich snacks helps support your progress.
+Protein helps you feel fuller for longer and protects your muscle mass as you lose weight. Including a good source of protein at each meal makes a big difference. Options include chicken, fish, eggs, yoghurt, tofu, beans and lentils. Even on days when your appetite is low, choosing small protein rich snacks helps support your progress.
 
 **Build balanced, satisfying meals**  
 A balanced plate includes a portion of protein, plenty of vegetables and a source of whole grains or fibre rich carbohydrates. This structure helps keep energy stable and prevents overeating later in the day. Some people on GLP-1s feel full very quickly. Smaller meals eaten more slowly can help when you struggle to finish a normal portion.
@@ -59,6 +59,6 @@ If side effects do not settle, or if your weight loss is happening faster than e
 **Conclusion**  
 GLP-1 therapy can be a powerful tool, but the habits you build alongside it create long lasting change. Simple, achievable steps in nutrition, activity and daily routines can help you feel your best. If you are ready to begin or want personalised support, reach out to your treatment provider for guidance. A tailored plan can help you stay on track and achieve steady, sustainable progress.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzQzMjQ0NjAsMTIyNDkyMTg0MCw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTEwNjQyNDIzOCwtMTgzNDMyNDQ2MCwxMj
+I0OTIxODQwLDczMDk5ODExNl19
 -->
